@@ -517,4 +517,14 @@ body {
         justify-content: center;
         gap: 0.5rem;
     }
+
+    .trade-interface {
+        flex-direction: column !important;
+        gap: 1rem !important;
+    }
+
+    .trade-middle {
+        transform: rotate(90deg);
+        margin: 0.5rem 0;
+    }
 }
