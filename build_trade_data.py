@@ -21,16 +21,14 @@ draftPicks2028 = []
 
 for r in range(1, 8):
     for i, t in enumerate(base_order):
-        # Zone-based value smoothing for future picks (1-5 = pick 3, 6-10 = pick 8, 11-16 = pick 13, 17-24 = pick 20, 25-32 = pick 28)
+        # Zone-based value smoothing for future picks (Centered around 10th, 20th, 30th picks + mild slope)
         base_pick_for_value = i + 1
-        if base_pick_for_value <= 10:
-            base_pick_for_value = 6
-        elif base_pick_for_value <= 16:
-            base_pick_for_value = 13
-        elif base_pick_for_value <= 24:
-            base_pick_for_value = 20
+        if base_pick_for_value <= 11:
+            base_pick_for_value = 10 + ((base_pick_for_value - 6) // 2)
+        elif base_pick_for_value <= 22:
+            base_pick_for_value = 20 + ((base_pick_for_value - 17) // 2)
         else:
-            base_pick_for_value = 28
+            base_pick_for_value = 30 + ((base_pick_for_value - 27) // 2)
             
         eq_pick_for_value = (r - 1) * 32 + base_pick_for_value
         base_val = rh_values.get(str(eq_pick_for_value), 0)

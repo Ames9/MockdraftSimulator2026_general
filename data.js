@@ -7717,6 +7717,8 @@ const teamNeeds = {
 };
 
 
+
+
 // Phase 6 Trade Logic Data
 const richHillValues = {
     "1": 1000,
@@ -7984,7 +7986,7 @@ const draftPicks2027 = [
         "round": 1,
         "originalTeamId": "lv",
         "currentTeamId": "lv",
-        "value": 370,
+        "value": 353,
         "originalPickRank": 1,
         "id": "2027_R1_lv"
     },
@@ -7993,7 +7995,7 @@ const draftPicks2027 = [
         "round": 1,
         "originalTeamId": "nyj",
         "currentTeamId": "nyj",
-        "value": 370,
+        "value": 336,
         "originalPickRank": 2,
         "id": "2027_R1_nyj"
     },
@@ -8002,7 +8004,7 @@ const draftPicks2027 = [
         "round": 1,
         "originalTeamId": "ari",
         "currentTeamId": "ari",
-        "value": 370,
+        "value": 336,
         "originalPickRank": 3,
         "id": "2027_R1_ari"
     },
@@ -8011,7 +8013,7 @@ const draftPicks2027 = [
         "round": 1,
         "originalTeamId": "ten",
         "currentTeamId": "ten",
-        "value": 370,
+        "value": 321,
         "originalPickRank": 4,
         "id": "2027_R1_ten"
     },
@@ -8020,7 +8022,7 @@ const draftPicks2027 = [
         "round": 1,
         "originalTeamId": "nyg",
         "currentTeamId": "nyg",
-        "value": 370,
+        "value": 321,
         "originalPickRank": 5,
         "id": "2027_R1_nyg"
     },
@@ -8029,7 +8031,7 @@ const draftPicks2027 = [
         "round": 1,
         "originalTeamId": "cle",
         "currentTeamId": "cle",
-        "value": 370,
+        "value": 306,
         "originalPickRank": 6,
         "id": "2027_R1_cle"
     },
@@ -8038,7 +8040,7 @@ const draftPicks2027 = [
         "round": 1,
         "originalTeamId": "was",
         "currentTeamId": "was",
-        "value": 370,
+        "value": 306,
         "originalPickRank": 7,
         "id": "2027_R1_was"
     },
@@ -8047,7 +8049,7 @@ const draftPicks2027 = [
         "round": 1,
         "originalTeamId": "no",
         "currentTeamId": "no",
-        "value": 370,
+        "value": 297,
         "originalPickRank": 8,
         "id": "2027_R1_no"
     },
@@ -8056,7 +8058,7 @@ const draftPicks2027 = [
         "round": 1,
         "originalTeamId": "kc",
         "currentTeamId": "kc",
-        "value": 370,
+        "value": 297,
         "originalPickRank": 9,
         "id": "2027_R1_kc"
     },
@@ -8065,7 +8067,7 @@ const draftPicks2027 = [
         "round": 1,
         "originalTeamId": "cin",
         "currentTeamId": "cin",
-        "value": 370,
+        "value": 288,
         "originalPickRank": 10,
         "id": "2027_R1_cin"
     },
@@ -8074,7 +8076,7 @@ const draftPicks2027 = [
         "round": 1,
         "originalTeamId": "mia",
         "currentTeamId": "mia",
-        "value": 278,
+        "value": 288,
         "originalPickRank": 11,
         "id": "2027_R1_mia"
     },
@@ -8083,7 +8085,7 @@ const draftPicks2027 = [
         "round": 1,
         "originalTeamId": "dal",
         "currentTeamId": "nyj",
-        "value": 278,
+        "value": 245,
         "originalPickRank": 12,
         "id": "2027_R1_dal"
     },
@@ -8092,7 +8094,7 @@ const draftPicks2027 = [
         "round": 1,
         "originalTeamId": "atl",
         "currentTeamId": "atl",
-        "value": 278,
+        "value": 238,
         "originalPickRank": 13,
         "id": "2027_R1_atl"
     },
@@ -8101,7 +8103,7 @@ const draftPicks2027 = [
         "round": 1,
         "originalTeamId": "bal",
         "currentTeamId": "bal",
-        "value": 278,
+        "value": 238,
         "originalPickRank": 14,
         "id": "2027_R1_bal"
     },
@@ -8110,7 +8112,7 @@ const draftPicks2027 = [
         "round": 1,
         "originalTeamId": "tb",
         "currentTeamId": "tb",
-        "value": 278,
+        "value": 230,
         "originalPickRank": 15,
         "id": "2027_R1_tb"
     },
@@ -8119,7 +8121,7 @@ const draftPicks2027 = [
         "round": 1,
         "originalTeamId": "ind",
         "currentTeamId": "nyj",
-        "value": 278,
+        "value": 230,
         "originalPickRank": 16,
         "id": "2027_R1_ind"
     },
@@ -8146,7 +8148,7 @@ const draftPicks2027 = [
         "round": 1,
         "originalTeamId": "car",
         "currentTeamId": "car",
-        "value": 223,
+        "value": 216,
         "originalPickRank": 19,
         "id": "2027_R1_car"
     },
@@ -8155,7 +8157,7 @@ const draftPicks2027 = [
         "round": 1,
         "originalTeamId": "gb",
         "currentTeamId": "dal",
-        "value": 223,
+        "value": 216,
         "originalPickRank": 20,
         "id": "2027_R1_gb"
     },
@@ -8164,7 +8166,7 @@ const draftPicks2027 = [
         "round": 1,
         "originalTeamId": "pit",
         "currentTeamId": "pit",
-        "value": 223,
+        "value": 209,
         "originalPickRank": 21,
         "id": "2027_R1_pit"
     },
@@ -8173,7 +8175,7 @@ const draftPicks2027 = [
         "round": 1,
         "originalTeamId": "lac",
         "currentTeamId": "lac",
-        "value": 223,
+        "value": 209,
         "originalPickRank": 22,
         "id": "2027_R1_lac"
     },
@@ -8182,7 +8184,7 @@ const draftPicks2027 = [
         "round": 1,
         "originalTeamId": "phi",
         "currentTeamId": "phi",
-        "value": 223,
+        "value": 173,
         "originalPickRank": 23,
         "id": "2027_R1_phi"
     },
@@ -8191,7 +8193,7 @@ const draftPicks2027 = [
         "round": 1,
         "originalTeamId": "jax",
         "currentTeamId": "jax",
-        "value": 223,
+        "value": 173,
         "originalPickRank": 24,
         "id": "2027_R1_jax"
     },
@@ -8200,7 +8202,7 @@ const draftPicks2027 = [
         "round": 1,
         "originalTeamId": "chi",
         "currentTeamId": "chi",
-        "value": 173,
+        "value": 167,
         "originalPickRank": 25,
         "id": "2027_R1_chi"
     },
@@ -8209,7 +8211,7 @@ const draftPicks2027 = [
         "round": 1,
         "originalTeamId": "buf",
         "currentTeamId": "buf",
-        "value": 173,
+        "value": 167,
         "originalPickRank": 26,
         "id": "2027_R1_buf"
     },
@@ -8218,7 +8220,7 @@ const draftPicks2027 = [
         "round": 1,
         "originalTeamId": "sf",
         "currentTeamId": "sf",
-        "value": 173,
+        "value": 162,
         "originalPickRank": 27,
         "id": "2027_R1_sf"
     },
@@ -8227,7 +8229,7 @@ const draftPicks2027 = [
         "round": 1,
         "originalTeamId": "hou",
         "currentTeamId": "hou",
-        "value": 173,
+        "value": 162,
         "originalPickRank": 28,
         "id": "2027_R1_hou"
     },
@@ -8236,7 +8238,7 @@ const draftPicks2027 = [
         "round": 1,
         "originalTeamId": "lar",
         "currentTeamId": "lar",
-        "value": 173,
+        "value": 157,
         "originalPickRank": 29,
         "id": "2027_R1_lar"
     },
@@ -8245,7 +8247,7 @@ const draftPicks2027 = [
         "round": 1,
         "originalTeamId": "den",
         "currentTeamId": "den",
-        "value": 173,
+        "value": 157,
         "originalPickRank": 30,
         "id": "2027_R1_den"
     },
@@ -8254,7 +8256,7 @@ const draftPicks2027 = [
         "round": 1,
         "originalTeamId": "ne",
         "currentTeamId": "ne",
-        "value": 173,
+        "value": 152,
         "originalPickRank": 31,
         "id": "2027_R1_ne"
     },
@@ -8263,7 +8265,7 @@ const draftPicks2027 = [
         "round": 1,
         "originalTeamId": "sea",
         "currentTeamId": "sea",
-        "value": 173,
+        "value": 152,
         "originalPickRank": 32,
         "id": "2027_R1_sea"
     },
@@ -8272,7 +8274,7 @@ const draftPicks2027 = [
         "round": 2,
         "originalTeamId": "lv",
         "currentTeamId": "lv",
-        "value": 130,
+        "value": 126,
         "originalPickRank": 33,
         "id": "2027_R2_lv"
     },
@@ -8281,7 +8283,7 @@ const draftPicks2027 = [
         "round": 2,
         "originalTeamId": "nyj",
         "currentTeamId": "nyj",
-        "value": 130,
+        "value": 123,
         "originalPickRank": 34,
         "id": "2027_R2_nyj"
     },
@@ -8290,7 +8292,7 @@ const draftPicks2027 = [
         "round": 2,
         "originalTeamId": "ari",
         "currentTeamId": "ari",
-        "value": 130,
+        "value": 123,
         "originalPickRank": 35,
         "id": "2027_R2_ari"
     },
@@ -8299,7 +8301,7 @@ const draftPicks2027 = [
         "round": 2,
         "originalTeamId": "ten",
         "currentTeamId": "ten",
-        "value": 130,
+        "value": 121,
         "originalPickRank": 36,
         "id": "2027_R2_ten"
     },
@@ -8308,7 +8310,7 @@ const draftPicks2027 = [
         "round": 2,
         "originalTeamId": "nyg",
         "currentTeamId": "nyg",
-        "value": 130,
+        "value": 121,
         "originalPickRank": 37,
         "id": "2027_R2_nyg"
     },
@@ -8317,7 +8319,7 @@ const draftPicks2027 = [
         "round": 2,
         "originalTeamId": "cle",
         "currentTeamId": "cle",
-        "value": 130,
+        "value": 117,
         "originalPickRank": 38,
         "id": "2027_R2_cle"
     },
@@ -8326,7 +8328,7 @@ const draftPicks2027 = [
         "round": 2,
         "originalTeamId": "was",
         "currentTeamId": "was",
-        "value": 130,
+        "value": 117,
         "originalPickRank": 39,
         "id": "2027_R2_was"
     },
@@ -8335,7 +8337,7 @@ const draftPicks2027 = [
         "round": 2,
         "originalTeamId": "no",
         "currentTeamId": "no",
-        "value": 130,
+        "value": 114,
         "originalPickRank": 40,
         "id": "2027_R2_no"
     },
@@ -8344,7 +8346,7 @@ const draftPicks2027 = [
         "round": 2,
         "originalTeamId": "kc",
         "currentTeamId": "kc",
-        "value": 130,
+        "value": 114,
         "originalPickRank": 41,
         "id": "2027_R2_kc"
     },
@@ -8353,7 +8355,7 @@ const draftPicks2027 = [
         "round": 2,
         "originalTeamId": "cin",
         "currentTeamId": "cin",
-        "value": 130,
+        "value": 112,
         "originalPickRank": 42,
         "id": "2027_R2_cin"
     },
@@ -8362,7 +8364,7 @@ const draftPicks2027 = [
         "round": 2,
         "originalTeamId": "mia",
         "currentTeamId": "mia",
-        "value": 108,
+        "value": 112,
         "originalPickRank": 43,
         "id": "2027_R2_mia"
     },
@@ -8371,7 +8373,7 @@ const draftPicks2027 = [
         "round": 2,
         "originalTeamId": "dal",
         "currentTeamId": "dal",
-        "value": 108,
+        "value": 97,
         "originalPickRank": 44,
         "id": "2027_R2_dal"
     },
@@ -8380,7 +8382,7 @@ const draftPicks2027 = [
         "round": 2,
         "originalTeamId": "atl",
         "currentTeamId": "atl",
-        "value": 108,
+        "value": 95,
         "originalPickRank": 45,
         "id": "2027_R2_atl"
     },
@@ -8389,7 +8391,7 @@ const draftPicks2027 = [
         "round": 2,
         "originalTeamId": "bal",
         "currentTeamId": "bal",
-        "value": 108,
+        "value": 95,
         "originalPickRank": 46,
         "id": "2027_R2_bal"
     },
@@ -8398,7 +8400,7 @@ const draftPicks2027 = [
         "round": 2,
         "originalTeamId": "tb",
         "currentTeamId": "tb",
-        "value": 108,
+        "value": 92,
         "originalPickRank": 47,
         "id": "2027_R2_tb"
     },
@@ -8407,7 +8409,7 @@ const draftPicks2027 = [
         "round": 2,
         "originalTeamId": "ind",
         "currentTeamId": "ind",
-        "value": 108,
+        "value": 92,
         "originalPickRank": 48,
         "id": "2027_R2_ind"
     },
@@ -8434,7 +8436,7 @@ const draftPicks2027 = [
         "round": 2,
         "originalTeamId": "car",
         "currentTeamId": "car",
-        "value": 90,
+        "value": 87,
         "originalPickRank": 51,
         "id": "2027_R2_car"
     },
@@ -8443,7 +8445,7 @@ const draftPicks2027 = [
         "round": 2,
         "originalTeamId": "gb",
         "currentTeamId": "gb",
-        "value": 90,
+        "value": 87,
         "originalPickRank": 52,
         "id": "2027_R2_gb"
     },
@@ -8452,7 +8454,7 @@ const draftPicks2027 = [
         "round": 2,
         "originalTeamId": "pit",
         "currentTeamId": "pit",
-        "value": 90,
+        "value": 86,
         "originalPickRank": 53,
         "id": "2027_R2_pit"
     },
@@ -8461,7 +8463,7 @@ const draftPicks2027 = [
         "round": 2,
         "originalTeamId": "lac",
         "currentTeamId": "lac",
-        "value": 90,
+        "value": 86,
         "originalPickRank": 54,
         "id": "2027_R2_lac"
     },
@@ -8470,7 +8472,7 @@ const draftPicks2027 = [
         "round": 2,
         "originalTeamId": "phi",
         "currentTeamId": "phi",
-        "value": 90,
+        "value": 73,
         "originalPickRank": 55,
         "id": "2027_R2_phi"
     },
@@ -8479,7 +8481,7 @@ const draftPicks2027 = [
         "round": 2,
         "originalTeamId": "jax",
         "currentTeamId": "jax",
-        "value": 90,
+        "value": 73,
         "originalPickRank": 56,
         "id": "2027_R2_jax"
     },
@@ -8488,7 +8490,7 @@ const draftPicks2027 = [
         "round": 2,
         "originalTeamId": "chi",
         "currentTeamId": "chi",
-        "value": 73,
+        "value": 71,
         "originalPickRank": 57,
         "id": "2027_R2_chi"
     },
@@ -8497,7 +8499,7 @@ const draftPicks2027 = [
         "round": 2,
         "originalTeamId": "buf",
         "currentTeamId": "buf",
-        "value": 73,
+        "value": 71,
         "originalPickRank": 58,
         "id": "2027_R2_buf"
     },
@@ -8506,7 +8508,7 @@ const draftPicks2027 = [
         "round": 2,
         "originalTeamId": "sf",
         "currentTeamId": "sf",
-        "value": 73,
+        "value": 69,
         "originalPickRank": 59,
         "id": "2027_R2_sf"
     },
@@ -8515,7 +8517,7 @@ const draftPicks2027 = [
         "round": 2,
         "originalTeamId": "hou",
         "currentTeamId": "hou",
-        "value": 73,
+        "value": 69,
         "originalPickRank": 60,
         "id": "2027_R2_hou"
     },
@@ -8524,7 +8526,7 @@ const draftPicks2027 = [
         "round": 2,
         "originalTeamId": "lar",
         "currentTeamId": "lar",
-        "value": 73,
+        "value": 68,
         "originalPickRank": 61,
         "id": "2027_R2_lar"
     },
@@ -8533,7 +8535,7 @@ const draftPicks2027 = [
         "round": 2,
         "originalTeamId": "den",
         "currentTeamId": "den",
-        "value": 73,
+        "value": 68,
         "originalPickRank": 62,
         "id": "2027_R2_den"
     },
@@ -8542,7 +8544,7 @@ const draftPicks2027 = [
         "round": 2,
         "originalTeamId": "ne",
         "currentTeamId": "ne",
-        "value": 73,
+        "value": 66,
         "originalPickRank": 63,
         "id": "2027_R2_ne"
     },
@@ -8551,7 +8553,7 @@ const draftPicks2027 = [
         "round": 2,
         "originalTeamId": "sea",
         "currentTeamId": "sea",
-        "value": 73,
+        "value": 66,
         "originalPickRank": 64,
         "id": "2027_R2_sea"
     },
@@ -8560,7 +8562,7 @@ const draftPicks2027 = [
         "round": 3,
         "originalTeamId": "lv",
         "currentTeamId": "lv",
-        "value": 58,
+        "value": 56,
         "originalPickRank": 65,
         "id": "2027_R3_lv"
     },
@@ -8569,7 +8571,7 @@ const draftPicks2027 = [
         "round": 3,
         "originalTeamId": "nyj",
         "currentTeamId": "nyj",
-        "value": 58,
+        "value": 55,
         "originalPickRank": 66,
         "id": "2027_R3_nyj"
     },
@@ -8578,7 +8580,7 @@ const draftPicks2027 = [
         "round": 3,
         "originalTeamId": "ari",
         "currentTeamId": "ari",
-        "value": 58,
+        "value": 55,
         "originalPickRank": 67,
         "id": "2027_R3_ari"
     },
@@ -8587,7 +8589,7 @@ const draftPicks2027 = [
         "round": 3,
         "originalTeamId": "ten",
         "currentTeamId": "ten",
-        "value": 58,
+        "value": 53,
         "originalPickRank": 68,
         "id": "2027_R3_ten"
     },
@@ -8596,7 +8598,7 @@ const draftPicks2027 = [
         "round": 3,
         "originalTeamId": "nyg",
         "currentTeamId": "nyg",
-        "value": 58,
+        "value": 53,
         "originalPickRank": 69,
         "id": "2027_R3_nyg"
     },
@@ -8605,7 +8607,7 @@ const draftPicks2027 = [
         "round": 3,
         "originalTeamId": "cle",
         "currentTeamId": "cle",
-        "value": 58,
+        "value": 53,
         "originalPickRank": 70,
         "id": "2027_R3_cle"
     },
@@ -8614,7 +8616,7 @@ const draftPicks2027 = [
         "round": 3,
         "originalTeamId": "was",
         "currentTeamId": "was",
-        "value": 58,
+        "value": 53,
         "originalPickRank": 71,
         "id": "2027_R3_was"
     },
@@ -8623,7 +8625,7 @@ const draftPicks2027 = [
         "round": 3,
         "originalTeamId": "no",
         "currentTeamId": "no",
-        "value": 58,
+        "value": 52,
         "originalPickRank": 72,
         "id": "2027_R3_no"
     },
@@ -8632,7 +8634,7 @@ const draftPicks2027 = [
         "round": 3,
         "originalTeamId": "kc",
         "currentTeamId": "kc",
-        "value": 58,
+        "value": 52,
         "originalPickRank": 73,
         "id": "2027_R3_kc"
     },
@@ -8641,7 +8643,7 @@ const draftPicks2027 = [
         "round": 3,
         "originalTeamId": "cin",
         "currentTeamId": "cin",
-        "value": 58,
+        "value": 50,
         "originalPickRank": 74,
         "id": "2027_R3_cin"
     },
@@ -8650,7 +8652,7 @@ const draftPicks2027 = [
         "round": 3,
         "originalTeamId": "mia",
         "currentTeamId": "mia",
-        "value": 49,
+        "value": 50,
         "originalPickRank": 75,
         "id": "2027_R3_mia"
     },
@@ -8659,7 +8661,7 @@ const draftPicks2027 = [
         "round": 3,
         "originalTeamId": "dal",
         "currentTeamId": "dal",
-        "value": 49,
+        "value": 45,
         "originalPickRank": 76,
         "id": "2027_R3_dal"
     },
@@ -8668,7 +8670,7 @@ const draftPicks2027 = [
         "round": 3,
         "originalTeamId": "atl",
         "currentTeamId": "atl",
-        "value": 49,
+        "value": 44,
         "originalPickRank": 77,
         "id": "2027_R3_atl"
     },
@@ -8677,7 +8679,7 @@ const draftPicks2027 = [
         "round": 3,
         "originalTeamId": "bal",
         "currentTeamId": "bal",
-        "value": 49,
+        "value": 44,
         "originalPickRank": 78,
         "id": "2027_R3_bal"
     },
@@ -8686,7 +8688,7 @@ const draftPicks2027 = [
         "round": 3,
         "originalTeamId": "tb",
         "currentTeamId": "tb",
-        "value": 49,
+        "value": 43,
         "originalPickRank": 79,
         "id": "2027_R3_tb"
     },
@@ -8695,7 +8697,7 @@ const draftPicks2027 = [
         "round": 3,
         "originalTeamId": "ind",
         "currentTeamId": "ind",
-        "value": 49,
+        "value": 43,
         "originalPickRank": 80,
         "id": "2027_R3_ind"
     },
@@ -8722,7 +8724,7 @@ const draftPicks2027 = [
         "round": 3,
         "originalTeamId": "car",
         "currentTeamId": "car",
-        "value": 42,
+        "value": 41,
         "originalPickRank": 83,
         "id": "2027_R3_car"
     },
@@ -8731,7 +8733,7 @@ const draftPicks2027 = [
         "round": 3,
         "originalTeamId": "gb",
         "currentTeamId": "gb",
-        "value": 42,
+        "value": 41,
         "originalPickRank": 84,
         "id": "2027_R3_gb"
     },
@@ -8740,7 +8742,7 @@ const draftPicks2027 = [
         "round": 3,
         "originalTeamId": "pit",
         "currentTeamId": "pit",
-        "value": 42,
+        "value": 40,
         "originalPickRank": 85,
         "id": "2027_R3_pit"
     },
@@ -8749,7 +8751,7 @@ const draftPicks2027 = [
         "round": 3,
         "originalTeamId": "lac",
         "currentTeamId": "lac",
-        "value": 42,
+        "value": 40,
         "originalPickRank": 86,
         "id": "2027_R3_lac"
     },
@@ -8758,7 +8760,7 @@ const draftPicks2027 = [
         "round": 3,
         "originalTeamId": "phi",
         "currentTeamId": "phi",
-        "value": 42,
+        "value": 35,
         "originalPickRank": 87,
         "id": "2027_R3_phi"
     },
@@ -8767,7 +8769,7 @@ const draftPicks2027 = [
         "round": 3,
         "originalTeamId": "jax",
         "currentTeamId": "jax",
-        "value": 42,
+        "value": 35,
         "originalPickRank": 88,
         "id": "2027_R3_jax"
     },
@@ -8776,7 +8778,7 @@ const draftPicks2027 = [
         "round": 3,
         "originalTeamId": "chi",
         "currentTeamId": "chi",
-        "value": 35,
+        "value": 34,
         "originalPickRank": 89,
         "id": "2027_R3_chi"
     },
@@ -8785,7 +8787,7 @@ const draftPicks2027 = [
         "round": 3,
         "originalTeamId": "buf",
         "currentTeamId": "buf",
-        "value": 35,
+        "value": 34,
         "originalPickRank": 90,
         "id": "2027_R3_buf"
     },
@@ -8794,7 +8796,7 @@ const draftPicks2027 = [
         "round": 3,
         "originalTeamId": "sf",
         "currentTeamId": "sf",
-        "value": 35,
+        "value": 34,
         "originalPickRank": 91,
         "id": "2027_R3_sf"
     },
@@ -8803,7 +8805,7 @@ const draftPicks2027 = [
         "round": 3,
         "originalTeamId": "hou",
         "currentTeamId": "hou",
-        "value": 35,
+        "value": 34,
         "originalPickRank": 92,
         "id": "2027_R3_hou"
     },
@@ -8812,7 +8814,7 @@ const draftPicks2027 = [
         "round": 3,
         "originalTeamId": "lar",
         "currentTeamId": "lar",
-        "value": 35,
+        "value": 33,
         "originalPickRank": 93,
         "id": "2027_R3_lar"
     },
@@ -8821,7 +8823,7 @@ const draftPicks2027 = [
         "round": 3,
         "originalTeamId": "den",
         "currentTeamId": "den",
-        "value": 35,
+        "value": 33,
         "originalPickRank": 94,
         "id": "2027_R3_den"
     },
@@ -8830,7 +8832,7 @@ const draftPicks2027 = [
         "round": 3,
         "originalTeamId": "ne",
         "currentTeamId": "ne",
-        "value": 35,
+        "value": 32,
         "originalPickRank": 95,
         "id": "2027_R3_ne"
     },
@@ -8839,7 +8841,7 @@ const draftPicks2027 = [
         "round": 3,
         "originalTeamId": "sea",
         "currentTeamId": "sea",
-        "value": 35,
+        "value": 32,
         "originalPickRank": 96,
         "id": "2027_R3_sea"
     },
@@ -8848,7 +8850,7 @@ const draftPicks2027 = [
         "round": 4,
         "originalTeamId": "lv",
         "currentTeamId": "lv",
-        "value": 28,
+        "value": 27,
         "originalPickRank": 97,
         "id": "2027_R4_lv"
     },
@@ -8857,7 +8859,7 @@ const draftPicks2027 = [
         "round": 4,
         "originalTeamId": "nyj",
         "currentTeamId": "nyj",
-        "value": 28,
+        "value": 27,
         "originalPickRank": 98,
         "id": "2027_R4_nyj"
     },
@@ -8866,7 +8868,7 @@ const draftPicks2027 = [
         "round": 4,
         "originalTeamId": "ari",
         "currentTeamId": "ari",
-        "value": 28,
+        "value": 27,
         "originalPickRank": 99,
         "id": "2027_R4_ari"
     },
@@ -8875,7 +8877,7 @@ const draftPicks2027 = [
         "round": 4,
         "originalTeamId": "ten",
         "currentTeamId": "ten",
-        "value": 28,
+        "value": 26,
         "originalPickRank": 100,
         "id": "2027_R4_ten"
     },
@@ -8884,7 +8886,7 @@ const draftPicks2027 = [
         "round": 4,
         "originalTeamId": "nyg",
         "currentTeamId": "nyg",
-        "value": 28,
+        "value": 26,
         "originalPickRank": 101,
         "id": "2027_R4_nyg"
     },
@@ -8893,7 +8895,7 @@ const draftPicks2027 = [
         "round": 4,
         "originalTeamId": "cle",
         "currentTeamId": "cle",
-        "value": 28,
+        "value": 26,
         "originalPickRank": 102,
         "id": "2027_R4_cle"
     },
@@ -8902,7 +8904,7 @@ const draftPicks2027 = [
         "round": 4,
         "originalTeamId": "was",
         "currentTeamId": "was",
-        "value": 28,
+        "value": 26,
         "originalPickRank": 103,
         "id": "2027_R4_was"
     },
@@ -8911,7 +8913,7 @@ const draftPicks2027 = [
         "round": 4,
         "originalTeamId": "no",
         "currentTeamId": "no",
-        "value": 28,
+        "value": 25,
         "originalPickRank": 104,
         "id": "2027_R4_no"
     },
@@ -8920,7 +8922,7 @@ const draftPicks2027 = [
         "round": 4,
         "originalTeamId": "kc",
         "currentTeamId": "kc",
-        "value": 28,
+        "value": 25,
         "originalPickRank": 105,
         "id": "2027_R4_kc"
     },
@@ -8929,7 +8931,7 @@ const draftPicks2027 = [
         "round": 4,
         "originalTeamId": "cin",
         "currentTeamId": "cin",
-        "value": 28,
+        "value": 25,
         "originalPickRank": 106,
         "id": "2027_R4_cin"
     },
@@ -8938,7 +8940,7 @@ const draftPicks2027 = [
         "round": 4,
         "originalTeamId": "mia",
         "currentTeamId": "mia",
-        "value": 24,
+        "value": 25,
         "originalPickRank": 107,
         "id": "2027_R4_mia"
     },
@@ -8947,7 +8949,7 @@ const draftPicks2027 = [
         "round": 4,
         "originalTeamId": "dal",
         "currentTeamId": "dal",
-        "value": 24,
+        "value": 23,
         "originalPickRank": 108,
         "id": "2027_R4_dal"
     },
@@ -8956,7 +8958,7 @@ const draftPicks2027 = [
         "round": 4,
         "originalTeamId": "atl",
         "currentTeamId": "atl",
-        "value": 24,
+        "value": 23,
         "originalPickRank": 109,
         "id": "2027_R4_atl"
     },
@@ -8965,7 +8967,7 @@ const draftPicks2027 = [
         "round": 4,
         "originalTeamId": "bal",
         "currentTeamId": "bal",
-        "value": 24,
+        "value": 23,
         "originalPickRank": 110,
         "id": "2027_R4_bal"
     },
@@ -8974,7 +8976,7 @@ const draftPicks2027 = [
         "round": 4,
         "originalTeamId": "tb",
         "currentTeamId": "tb",
-        "value": 24,
+        "value": 22,
         "originalPickRank": 111,
         "id": "2027_R4_tb"
     },
@@ -8983,7 +8985,7 @@ const draftPicks2027 = [
         "round": 4,
         "originalTeamId": "ind",
         "currentTeamId": "ind",
-        "value": 24,
+        "value": 22,
         "originalPickRank": 112,
         "id": "2027_R4_ind"
     },
@@ -9028,7 +9030,7 @@ const draftPicks2027 = [
         "round": 4,
         "originalTeamId": "pit",
         "currentTeamId": "pit",
-        "value": 21,
+        "value": 20,
         "originalPickRank": 117,
         "id": "2027_R4_pit"
     },
@@ -9037,7 +9039,7 @@ const draftPicks2027 = [
         "round": 4,
         "originalTeamId": "lac",
         "currentTeamId": "lac",
-        "value": 21,
+        "value": 20,
         "originalPickRank": 118,
         "id": "2027_R4_lac"
     },
@@ -9046,7 +9048,7 @@ const draftPicks2027 = [
         "round": 4,
         "originalTeamId": "phi",
         "currentTeamId": "phi",
-        "value": 21,
+        "value": 18,
         "originalPickRank": 119,
         "id": "2027_R4_phi"
     },
@@ -9055,7 +9057,7 @@ const draftPicks2027 = [
         "round": 4,
         "originalTeamId": "jax",
         "currentTeamId": "jax",
-        "value": 21,
+        "value": 18,
         "originalPickRank": 120,
         "id": "2027_R4_jax"
     },
@@ -9064,7 +9066,7 @@ const draftPicks2027 = [
         "round": 4,
         "originalTeamId": "chi",
         "currentTeamId": "chi",
-        "value": 18,
+        "value": 17,
         "originalPickRank": 121,
         "id": "2027_R4_chi"
     },
@@ -9073,7 +9075,7 @@ const draftPicks2027 = [
         "round": 4,
         "originalTeamId": "buf",
         "currentTeamId": "buf",
-        "value": 18,
+        "value": 17,
         "originalPickRank": 122,
         "id": "2027_R4_buf"
     },
@@ -9082,7 +9084,7 @@ const draftPicks2027 = [
         "round": 4,
         "originalTeamId": "sf",
         "currentTeamId": "sf",
-        "value": 18,
+        "value": 17,
         "originalPickRank": 123,
         "id": "2027_R4_sf"
     },
@@ -9091,7 +9093,7 @@ const draftPicks2027 = [
         "round": 4,
         "originalTeamId": "hou",
         "currentTeamId": "hou",
-        "value": 18,
+        "value": 17,
         "originalPickRank": 124,
         "id": "2027_R4_hou"
     },
@@ -9100,7 +9102,7 @@ const draftPicks2027 = [
         "round": 4,
         "originalTeamId": "lar",
         "currentTeamId": "lar",
-        "value": 18,
+        "value": 16,
         "originalPickRank": 125,
         "id": "2027_R4_lar"
     },
@@ -9109,7 +9111,7 @@ const draftPicks2027 = [
         "round": 4,
         "originalTeamId": "den",
         "currentTeamId": "den",
-        "value": 18,
+        "value": 16,
         "originalPickRank": 126,
         "id": "2027_R4_den"
     },
@@ -9118,7 +9120,7 @@ const draftPicks2027 = [
         "round": 4,
         "originalTeamId": "ne",
         "currentTeamId": "ne",
-        "value": 18,
+        "value": 16,
         "originalPickRank": 127,
         "id": "2027_R4_ne"
     },
@@ -9127,7 +9129,7 @@ const draftPicks2027 = [
         "round": 4,
         "originalTeamId": "sea",
         "currentTeamId": "sea",
-        "value": 18,
+        "value": 16,
         "originalPickRank": 128,
         "id": "2027_R4_sea"
     },
@@ -9163,7 +9165,7 @@ const draftPicks2027 = [
         "round": 5,
         "originalTeamId": "ten",
         "currentTeamId": "ten",
-        "value": 14,
+        "value": 13,
         "originalPickRank": 132,
         "id": "2027_R5_ten"
     },
@@ -9172,7 +9174,7 @@ const draftPicks2027 = [
         "round": 5,
         "originalTeamId": "nyg",
         "currentTeamId": "nyg",
-        "value": 14,
+        "value": 13,
         "originalPickRank": 133,
         "id": "2027_R5_nyg"
     },
@@ -9181,7 +9183,7 @@ const draftPicks2027 = [
         "round": 5,
         "originalTeamId": "cle",
         "currentTeamId": "cle",
-        "value": 14,
+        "value": 13,
         "originalPickRank": 134,
         "id": "2027_R5_cle"
     },
@@ -9190,7 +9192,7 @@ const draftPicks2027 = [
         "round": 5,
         "originalTeamId": "was",
         "currentTeamId": "was",
-        "value": 14,
+        "value": 13,
         "originalPickRank": 135,
         "id": "2027_R5_was"
     },
@@ -9199,7 +9201,7 @@ const draftPicks2027 = [
         "round": 5,
         "originalTeamId": "no",
         "currentTeamId": "no",
-        "value": 14,
+        "value": 12,
         "originalPickRank": 136,
         "id": "2027_R5_no"
     },
@@ -9208,7 +9210,7 @@ const draftPicks2027 = [
         "round": 5,
         "originalTeamId": "kc",
         "currentTeamId": "kc",
-        "value": 14,
+        "value": 12,
         "originalPickRank": 137,
         "id": "2027_R5_kc"
     },
@@ -9217,7 +9219,7 @@ const draftPicks2027 = [
         "round": 5,
         "originalTeamId": "cin",
         "currentTeamId": "cin",
-        "value": 14,
+        "value": 12,
         "originalPickRank": 138,
         "id": "2027_R5_cin"
     },
@@ -9235,7 +9237,7 @@ const draftPicks2027 = [
         "round": 5,
         "originalTeamId": "dal",
         "currentTeamId": "pit",
-        "value": 12,
+        "value": 10,
         "originalPickRank": 140,
         "id": "2027_R5_dal"
     },
@@ -9244,7 +9246,7 @@ const draftPicks2027 = [
         "round": 5,
         "originalTeamId": "atl",
         "currentTeamId": "atl",
-        "value": 12,
+        "value": 10,
         "originalPickRank": 141,
         "id": "2027_R5_atl"
     },
@@ -9253,7 +9255,7 @@ const draftPicks2027 = [
         "round": 5,
         "originalTeamId": "bal",
         "currentTeamId": "bal",
-        "value": 12,
+        "value": 10,
         "originalPickRank": 142,
         "id": "2027_R5_bal"
     },
@@ -9262,7 +9264,7 @@ const draftPicks2027 = [
         "round": 5,
         "originalTeamId": "tb",
         "currentTeamId": "tb",
-        "value": 12,
+        "value": 10,
         "originalPickRank": 143,
         "id": "2027_R5_tb"
     },
@@ -9271,7 +9273,7 @@ const draftPicks2027 = [
         "round": 5,
         "originalTeamId": "ind",
         "currentTeamId": "ind",
-        "value": 12,
+        "value": 10,
         "originalPickRank": 144,
         "id": "2027_R5_ind"
     },
@@ -9298,7 +9300,7 @@ const draftPicks2027 = [
         "round": 5,
         "originalTeamId": "car",
         "currentTeamId": "car",
-        "value": 10,
+        "value": 9,
         "originalPickRank": 147,
         "id": "2027_R5_car"
     },
@@ -9307,7 +9309,7 @@ const draftPicks2027 = [
         "round": 5,
         "originalTeamId": "gb",
         "currentTeamId": "gb",
-        "value": 10,
+        "value": 9,
         "originalPickRank": 148,
         "id": "2027_R5_gb"
     },
@@ -9316,7 +9318,7 @@ const draftPicks2027 = [
         "round": 5,
         "originalTeamId": "pit",
         "currentTeamId": "mia",
-        "value": 10,
+        "value": 9,
         "originalPickRank": 149,
         "id": "2027_R5_pit"
     },
@@ -9325,7 +9327,7 @@ const draftPicks2027 = [
         "round": 5,
         "originalTeamId": "lac",
         "currentTeamId": "lac",
-        "value": 10,
+        "value": 9,
         "originalPickRank": 150,
         "id": "2027_R5_lac"
     },
@@ -9334,7 +9336,7 @@ const draftPicks2027 = [
         "round": 5,
         "originalTeamId": "phi",
         "currentTeamId": "phi",
-        "value": 10,
+        "value": 9,
         "originalPickRank": 151,
         "id": "2027_R5_phi"
     },
@@ -9343,7 +9345,7 @@ const draftPicks2027 = [
         "round": 5,
         "originalTeamId": "jax",
         "currentTeamId": "jax",
-        "value": 10,
+        "value": 9,
         "originalPickRank": 152,
         "id": "2027_R5_jax"
     },
@@ -9352,7 +9354,7 @@ const draftPicks2027 = [
         "round": 5,
         "originalTeamId": "chi",
         "currentTeamId": "chi",
-        "value": 9,
+        "value": 8,
         "originalPickRank": 153,
         "id": "2027_R5_chi"
     },
@@ -9361,7 +9363,7 @@ const draftPicks2027 = [
         "round": 5,
         "originalTeamId": "buf",
         "currentTeamId": "buf",
-        "value": 9,
+        "value": 8,
         "originalPickRank": 154,
         "id": "2027_R5_buf"
     },
@@ -9370,7 +9372,7 @@ const draftPicks2027 = [
         "round": 5,
         "originalTeamId": "sf",
         "currentTeamId": "sf",
-        "value": 9,
+        "value": 8,
         "originalPickRank": 155,
         "id": "2027_R5_sf"
     },
@@ -9379,7 +9381,7 @@ const draftPicks2027 = [
         "round": 5,
         "originalTeamId": "hou",
         "currentTeamId": "cle",
-        "value": 9,
+        "value": 8,
         "originalPickRank": 156,
         "id": "2027_R5_hou"
     },
@@ -9388,7 +9390,7 @@ const draftPicks2027 = [
         "round": 5,
         "originalTeamId": "lar",
         "currentTeamId": "lar",
-        "value": 9,
+        "value": 8,
         "originalPickRank": 157,
         "id": "2027_R5_lar"
     },
@@ -9397,7 +9399,7 @@ const draftPicks2027 = [
         "round": 5,
         "originalTeamId": "den",
         "currentTeamId": "den",
-        "value": 9,
+        "value": 8,
         "originalPickRank": 158,
         "id": "2027_R5_den"
     },
@@ -9406,7 +9408,7 @@ const draftPicks2027 = [
         "round": 5,
         "originalTeamId": "ne",
         "currentTeamId": "ne",
-        "value": 9,
+        "value": 8,
         "originalPickRank": 159,
         "id": "2027_R5_ne"
     },
@@ -9415,7 +9417,7 @@ const draftPicks2027 = [
         "round": 5,
         "originalTeamId": "sea",
         "currentTeamId": "sea",
-        "value": 9,
+        "value": 8,
         "originalPickRank": 160,
         "id": "2027_R5_sea"
     },
@@ -9514,7 +9516,7 @@ const draftPicks2027 = [
         "round": 6,
         "originalTeamId": "mia",
         "currentTeamId": "mia",
-        "value": 6,
+        "value": 7,
         "originalPickRank": 171,
         "id": "2027_R6_mia"
     },
@@ -9586,7 +9588,7 @@ const draftPicks2027 = [
         "round": 6,
         "originalTeamId": "car",
         "currentTeamId": "car",
-        "value": 6,
+        "value": 5,
         "originalPickRank": 179,
         "id": "2027_R6_car"
     },
@@ -9595,7 +9597,7 @@ const draftPicks2027 = [
         "round": 6,
         "originalTeamId": "gb",
         "currentTeamId": "phi",
-        "value": 6,
+        "value": 5,
         "originalPickRank": 180,
         "id": "2027_R6_gb"
     },
@@ -9604,7 +9606,7 @@ const draftPicks2027 = [
         "round": 6,
         "originalTeamId": "pit",
         "currentTeamId": "pit",
-        "value": 6,
+        "value": 5,
         "originalPickRank": 181,
         "id": "2027_R6_pit"
     },
@@ -9613,7 +9615,7 @@ const draftPicks2027 = [
         "round": 6,
         "originalTeamId": "lac",
         "currentTeamId": "no",
-        "value": 6,
+        "value": 5,
         "originalPickRank": 182,
         "id": "2027_R6_lac"
     },
@@ -9622,7 +9624,7 @@ const draftPicks2027 = [
         "round": 6,
         "originalTeamId": "phi",
         "currentTeamId": "nyj",
-        "value": 6,
+        "value": 5,
         "originalPickRank": 183,
         "id": "2027_R6_phi"
     },
@@ -9631,7 +9633,7 @@ const draftPicks2027 = [
         "round": 6,
         "originalTeamId": "jax",
         "currentTeamId": "jax",
-        "value": 6,
+        "value": 5,
         "originalPickRank": 184,
         "id": "2027_R6_jax"
     },
@@ -9640,7 +9642,7 @@ const draftPicks2027 = [
         "round": 6,
         "originalTeamId": "chi",
         "currentTeamId": "chi",
-        "value": 5,
+        "value": 4,
         "originalPickRank": 185,
         "id": "2027_R6_chi"
     },
@@ -9649,7 +9651,7 @@ const draftPicks2027 = [
         "round": 6,
         "originalTeamId": "buf",
         "currentTeamId": "buf",
-        "value": 5,
+        "value": 4,
         "originalPickRank": 186,
         "id": "2027_R6_buf"
     },
@@ -9658,7 +9660,7 @@ const draftPicks2027 = [
         "round": 6,
         "originalTeamId": "sf",
         "currentTeamId": "kc",
-        "value": 5,
+        "value": 4,
         "originalPickRank": 187,
         "id": "2027_R6_sf"
     },
@@ -9667,7 +9669,7 @@ const draftPicks2027 = [
         "round": 6,
         "originalTeamId": "hou",
         "currentTeamId": "hou",
-        "value": 5,
+        "value": 4,
         "originalPickRank": 188,
         "id": "2027_R6_hou"
     },
@@ -9676,7 +9678,7 @@ const draftPicks2027 = [
         "round": 6,
         "originalTeamId": "lar",
         "currentTeamId": "lar",
-        "value": 5,
+        "value": 4,
         "originalPickRank": 189,
         "id": "2027_R6_lar"
     },
@@ -9685,7 +9687,7 @@ const draftPicks2027 = [
         "round": 6,
         "originalTeamId": "den",
         "currentTeamId": "den",
-        "value": 5,
+        "value": 4,
         "originalPickRank": 190,
         "id": "2027_R6_den"
     },
@@ -9694,7 +9696,7 @@ const draftPicks2027 = [
         "round": 6,
         "originalTeamId": "ne",
         "currentTeamId": "ne",
-        "value": 5,
+        "value": 4,
         "originalPickRank": 191,
         "id": "2027_R6_ne"
     },
@@ -9703,7 +9705,7 @@ const draftPicks2027 = [
         "round": 6,
         "originalTeamId": "sea",
         "currentTeamId": "sea",
-        "value": 5,
+        "value": 4,
         "originalPickRank": 192,
         "id": "2027_R6_sea"
     },
@@ -9811,7 +9813,7 @@ const draftPicks2027 = [
         "round": 7,
         "originalTeamId": "dal",
         "currentTeamId": "dal",
-        "value": 4,
+        "value": 3,
         "originalPickRank": 204,
         "id": "2027_R7_dal"
     },
@@ -9820,7 +9822,7 @@ const draftPicks2027 = [
         "round": 7,
         "originalTeamId": "atl",
         "currentTeamId": "sea",
-        "value": 4,
+        "value": 3,
         "originalPickRank": 205,
         "id": "2027_R7_atl"
     },
@@ -9829,7 +9831,7 @@ const draftPicks2027 = [
         "round": 7,
         "originalTeamId": "bal",
         "currentTeamId": "phi",
-        "value": 4,
+        "value": 3,
         "originalPickRank": 206,
         "id": "2027_R7_bal"
     },
@@ -9838,7 +9840,7 @@ const draftPicks2027 = [
         "round": 7,
         "originalTeamId": "tb",
         "currentTeamId": "tb",
-        "value": 4,
+        "value": 3,
         "originalPickRank": 207,
         "id": "2027_R7_tb"
     },
@@ -9847,7 +9849,7 @@ const draftPicks2027 = [
         "round": 7,
         "originalTeamId": "ind",
         "currentTeamId": "ind",
-        "value": 4,
+        "value": 3,
         "originalPickRank": 208,
         "id": "2027_R7_ind"
     },
@@ -9964,7 +9966,7 @@ const draftPicks2027 = [
         "round": 7,
         "originalTeamId": "lar",
         "currentTeamId": "lac",
-        "value": 3,
+        "value": 2,
         "originalPickRank": 221,
         "id": "2027_R7_lar"
     },
@@ -9973,7 +9975,7 @@ const draftPicks2027 = [
         "round": 7,
         "originalTeamId": "den",
         "currentTeamId": "den",
-        "value": 3,
+        "value": 2,
         "originalPickRank": 222,
         "id": "2027_R7_den"
     },
@@ -9982,7 +9984,7 @@ const draftPicks2027 = [
         "round": 7,
         "originalTeamId": "ne",
         "currentTeamId": "ne",
-        "value": 3,
+        "value": 2,
         "originalPickRank": 223,
         "id": "2027_R7_ne"
     },
@@ -9991,7 +9993,7 @@ const draftPicks2027 = [
         "round": 7,
         "originalTeamId": "sea",
         "currentTeamId": "sea",
-        "value": 3,
+        "value": 2,
         "originalPickRank": 224,
         "id": "2027_R7_sea"
     }
@@ -10003,7 +10005,7 @@ const draftPicks2028 = [
         "round": 1,
         "originalTeamId": "lv",
         "currentTeamId": "lv",
-        "value": 294,
+        "value": 281,
         "originalPickRank": 1,
         "id": "2028_R1_lv"
     },
@@ -10012,7 +10014,7 @@ const draftPicks2028 = [
         "round": 1,
         "originalTeamId": "nyj",
         "currentTeamId": "nyj",
-        "value": 294,
+        "value": 267,
         "originalPickRank": 2,
         "id": "2028_R1_nyj"
     },
@@ -10021,7 +10023,7 @@ const draftPicks2028 = [
         "round": 1,
         "originalTeamId": "ari",
         "currentTeamId": "ari",
-        "value": 294,
+        "value": 267,
         "originalPickRank": 3,
         "id": "2028_R1_ari"
     },
@@ -10030,7 +10032,7 @@ const draftPicks2028 = [
         "round": 1,
         "originalTeamId": "ten",
         "currentTeamId": "ten",
-        "value": 294,
+        "value": 255,
         "originalPickRank": 4,
         "id": "2028_R1_ten"
     },
@@ -10039,7 +10041,7 @@ const draftPicks2028 = [
         "round": 1,
         "originalTeamId": "nyg",
         "currentTeamId": "nyg",
-        "value": 294,
+        "value": 255,
         "originalPickRank": 5,
         "id": "2028_R1_nyg"
     },
@@ -10048,7 +10050,7 @@ const draftPicks2028 = [
         "round": 1,
         "originalTeamId": "cle",
         "currentTeamId": "cle",
-        "value": 294,
+        "value": 243,
         "originalPickRank": 6,
         "id": "2028_R1_cle"
     },
@@ -10057,7 +10059,7 @@ const draftPicks2028 = [
         "round": 1,
         "originalTeamId": "was",
         "currentTeamId": "was",
-        "value": 294,
+        "value": 243,
         "originalPickRank": 7,
         "id": "2028_R1_was"
     },
@@ -10066,7 +10068,7 @@ const draftPicks2028 = [
         "round": 1,
         "originalTeamId": "no",
         "currentTeamId": "no",
-        "value": 294,
+        "value": 236,
         "originalPickRank": 8,
         "id": "2028_R1_no"
     },
@@ -10075,7 +10077,7 @@ const draftPicks2028 = [
         "round": 1,
         "originalTeamId": "kc",
         "currentTeamId": "kc",
-        "value": 294,
+        "value": 236,
         "originalPickRank": 9,
         "id": "2028_R1_kc"
     },
@@ -10084,7 +10086,7 @@ const draftPicks2028 = [
         "round": 1,
         "originalTeamId": "cin",
         "currentTeamId": "cin",
-        "value": 294,
+        "value": 229,
         "originalPickRank": 10,
         "id": "2028_R1_cin"
     },
@@ -10093,7 +10095,7 @@ const draftPicks2028 = [
         "round": 1,
         "originalTeamId": "mia",
         "currentTeamId": "mia",
-        "value": 221,
+        "value": 229,
         "originalPickRank": 11,
         "id": "2028_R1_mia"
     },
@@ -10102,7 +10104,7 @@ const draftPicks2028 = [
         "round": 1,
         "originalTeamId": "dal",
         "currentTeamId": "dal",
-        "value": 221,
+        "value": 195,
         "originalPickRank": 12,
         "id": "2028_R1_dal"
     },
@@ -10111,7 +10113,7 @@ const draftPicks2028 = [
         "round": 1,
         "originalTeamId": "atl",
         "currentTeamId": "atl",
-        "value": 221,
+        "value": 189,
         "originalPickRank": 13,
         "id": "2028_R1_atl"
     },
@@ -10120,7 +10122,7 @@ const draftPicks2028 = [
         "round": 1,
         "originalTeamId": "bal",
         "currentTeamId": "bal",
-        "value": 221,
+        "value": 189,
         "originalPickRank": 14,
         "id": "2028_R1_bal"
     },
@@ -10129,7 +10131,7 @@ const draftPicks2028 = [
         "round": 1,
         "originalTeamId": "tb",
         "currentTeamId": "tb",
-        "value": 221,
+        "value": 183,
         "originalPickRank": 15,
         "id": "2028_R1_tb"
     },
@@ -10138,7 +10140,7 @@ const draftPicks2028 = [
         "round": 1,
         "originalTeamId": "ind",
         "currentTeamId": "ind",
-        "value": 221,
+        "value": 183,
         "originalPickRank": 16,
         "id": "2028_R1_ind"
     },
@@ -10165,7 +10167,7 @@ const draftPicks2028 = [
         "round": 1,
         "originalTeamId": "car",
         "currentTeamId": "car",
-        "value": 177,
+        "value": 172,
         "originalPickRank": 19,
         "id": "2028_R1_car"
     },
@@ -10174,7 +10176,7 @@ const draftPicks2028 = [
         "round": 1,
         "originalTeamId": "gb",
         "currentTeamId": "gb",
-        "value": 177,
+        "value": 172,
         "originalPickRank": 20,
         "id": "2028_R1_gb"
     },
@@ -10183,7 +10185,7 @@ const draftPicks2028 = [
         "round": 1,
         "originalTeamId": "pit",
         "currentTeamId": "pit",
-        "value": 177,
+        "value": 166,
         "originalPickRank": 21,
         "id": "2028_R1_pit"
     },
@@ -10192,7 +10194,7 @@ const draftPicks2028 = [
         "round": 1,
         "originalTeamId": "lac",
         "currentTeamId": "lac",
-        "value": 177,
+        "value": 166,
         "originalPickRank": 22,
         "id": "2028_R1_lac"
     },
@@ -10201,7 +10203,7 @@ const draftPicks2028 = [
         "round": 1,
         "originalTeamId": "phi",
         "currentTeamId": "phi",
-        "value": 177,
+        "value": 137,
         "originalPickRank": 23,
         "id": "2028_R1_phi"
     },
@@ -10210,7 +10212,7 @@ const draftPicks2028 = [
         "round": 1,
         "originalTeamId": "jax",
         "currentTeamId": "jax",
-        "value": 177,
+        "value": 137,
         "originalPickRank": 24,
         "id": "2028_R1_jax"
     },
@@ -10219,7 +10221,7 @@ const draftPicks2028 = [
         "round": 1,
         "originalTeamId": "chi",
         "currentTeamId": "chi",
-        "value": 137,
+        "value": 133,
         "originalPickRank": 25,
         "id": "2028_R1_chi"
     },
@@ -10228,7 +10230,7 @@ const draftPicks2028 = [
         "round": 1,
         "originalTeamId": "buf",
         "currentTeamId": "buf",
-        "value": 137,
+        "value": 133,
         "originalPickRank": 26,
         "id": "2028_R1_buf"
     },
@@ -10237,7 +10239,7 @@ const draftPicks2028 = [
         "round": 1,
         "originalTeamId": "sf",
         "currentTeamId": "sf",
-        "value": 137,
+        "value": 129,
         "originalPickRank": 27,
         "id": "2028_R1_sf"
     },
@@ -10246,7 +10248,7 @@ const draftPicks2028 = [
         "round": 1,
         "originalTeamId": "hou",
         "currentTeamId": "hou",
-        "value": 137,
+        "value": 129,
         "originalPickRank": 28,
         "id": "2028_R1_hou"
     },
@@ -10255,7 +10257,7 @@ const draftPicks2028 = [
         "round": 1,
         "originalTeamId": "lar",
         "currentTeamId": "lar",
-        "value": 137,
+        "value": 125,
         "originalPickRank": 29,
         "id": "2028_R1_lar"
     },
@@ -10264,7 +10266,7 @@ const draftPicks2028 = [
         "round": 1,
         "originalTeamId": "den",
         "currentTeamId": "den",
-        "value": 137,
+        "value": 125,
         "originalPickRank": 30,
         "id": "2028_R1_den"
     },
@@ -10273,7 +10275,7 @@ const draftPicks2028 = [
         "round": 1,
         "originalTeamId": "ne",
         "currentTeamId": "ne",
-        "value": 137,
+        "value": 121,
         "originalPickRank": 31,
         "id": "2028_R1_ne"
     },
@@ -10282,7 +10284,7 @@ const draftPicks2028 = [
         "round": 1,
         "originalTeamId": "sea",
         "currentTeamId": "sea",
-        "value": 137,
+        "value": 121,
         "originalPickRank": 32,
         "id": "2028_R1_sea"
     },
@@ -10291,7 +10293,7 @@ const draftPicks2028 = [
         "round": 2,
         "originalTeamId": "lv",
         "currentTeamId": "lv",
-        "value": 103,
+        "value": 100,
         "originalPickRank": 33,
         "id": "2028_R2_lv"
     },
@@ -10300,7 +10302,7 @@ const draftPicks2028 = [
         "round": 2,
         "originalTeamId": "nyj",
         "currentTeamId": "nyj",
-        "value": 103,
+        "value": 98,
         "originalPickRank": 34,
         "id": "2028_R2_nyj"
     },
@@ -10309,7 +10311,7 @@ const draftPicks2028 = [
         "round": 2,
         "originalTeamId": "ari",
         "currentTeamId": "ari",
-        "value": 103,
+        "value": 98,
         "originalPickRank": 35,
         "id": "2028_R2_ari"
     },
@@ -10318,7 +10320,7 @@ const draftPicks2028 = [
         "round": 2,
         "originalTeamId": "ten",
         "currentTeamId": "ten",
-        "value": 103,
+        "value": 96,
         "originalPickRank": 36,
         "id": "2028_R2_ten"
     },
@@ -10327,7 +10329,7 @@ const draftPicks2028 = [
         "round": 2,
         "originalTeamId": "nyg",
         "currentTeamId": "nyg",
-        "value": 103,
+        "value": 96,
         "originalPickRank": 37,
         "id": "2028_R2_nyg"
     },
@@ -10336,7 +10338,7 @@ const draftPicks2028 = [
         "round": 2,
         "originalTeamId": "cle",
         "currentTeamId": "cle",
-        "value": 103,
+        "value": 93,
         "originalPickRank": 38,
         "id": "2028_R2_cle"
     },
@@ -10345,7 +10347,7 @@ const draftPicks2028 = [
         "round": 2,
         "originalTeamId": "was",
         "currentTeamId": "was",
-        "value": 103,
+        "value": 93,
         "originalPickRank": 39,
         "id": "2028_R2_was"
     },
@@ -10354,7 +10356,7 @@ const draftPicks2028 = [
         "round": 2,
         "originalTeamId": "no",
         "currentTeamId": "no",
-        "value": 103,
+        "value": 91,
         "originalPickRank": 40,
         "id": "2028_R2_no"
     },
@@ -10363,7 +10365,7 @@ const draftPicks2028 = [
         "round": 2,
         "originalTeamId": "kc",
         "currentTeamId": "kc",
-        "value": 103,
+        "value": 91,
         "originalPickRank": 41,
         "id": "2028_R2_kc"
     },
@@ -10372,7 +10374,7 @@ const draftPicks2028 = [
         "round": 2,
         "originalTeamId": "cin",
         "currentTeamId": "cin",
-        "value": 103,
+        "value": 89,
         "originalPickRank": 42,
         "id": "2028_R2_cin"
     },
@@ -10381,7 +10383,7 @@ const draftPicks2028 = [
         "round": 2,
         "originalTeamId": "mia",
         "currentTeamId": "mia",
-        "value": 86,
+        "value": 89,
         "originalPickRank": 43,
         "id": "2028_R2_mia"
     },
@@ -10390,7 +10392,7 @@ const draftPicks2028 = [
         "round": 2,
         "originalTeamId": "dal",
         "currentTeamId": "dal",
-        "value": 86,
+        "value": 77,
         "originalPickRank": 44,
         "id": "2028_R2_dal"
     },
@@ -10399,7 +10401,7 @@ const draftPicks2028 = [
         "round": 2,
         "originalTeamId": "atl",
         "currentTeamId": "atl",
-        "value": 86,
+        "value": 75,
         "originalPickRank": 45,
         "id": "2028_R2_atl"
     },
@@ -10408,7 +10410,7 @@ const draftPicks2028 = [
         "round": 2,
         "originalTeamId": "bal",
         "currentTeamId": "bal",
-        "value": 86,
+        "value": 75,
         "originalPickRank": 46,
         "id": "2028_R2_bal"
     },
@@ -10417,7 +10419,7 @@ const draftPicks2028 = [
         "round": 2,
         "originalTeamId": "tb",
         "currentTeamId": "tb",
-        "value": 86,
+        "value": 73,
         "originalPickRank": 47,
         "id": "2028_R2_tb"
     },
@@ -10426,7 +10428,7 @@ const draftPicks2028 = [
         "round": 2,
         "originalTeamId": "ind",
         "currentTeamId": "ind",
-        "value": 86,
+        "value": 73,
         "originalPickRank": 48,
         "id": "2028_R2_ind"
     },
@@ -10453,7 +10455,7 @@ const draftPicks2028 = [
         "round": 2,
         "originalTeamId": "car",
         "currentTeamId": "car",
-        "value": 71,
+        "value": 69,
         "originalPickRank": 51,
         "id": "2028_R2_car"
     },
@@ -10462,7 +10464,7 @@ const draftPicks2028 = [
         "round": 2,
         "originalTeamId": "gb",
         "currentTeamId": "gb",
-        "value": 71,
+        "value": 69,
         "originalPickRank": 52,
         "id": "2028_R2_gb"
     },
@@ -10471,7 +10473,7 @@ const draftPicks2028 = [
         "round": 2,
         "originalTeamId": "pit",
         "currentTeamId": "pit",
-        "value": 71,
+        "value": 68,
         "originalPickRank": 53,
         "id": "2028_R2_pit"
     },
@@ -10480,7 +10482,7 @@ const draftPicks2028 = [
         "round": 2,
         "originalTeamId": "lac",
         "currentTeamId": "lac",
-        "value": 71,
+        "value": 68,
         "originalPickRank": 54,
         "id": "2028_R2_lac"
     },
@@ -10489,7 +10491,7 @@ const draftPicks2028 = [
         "round": 2,
         "originalTeamId": "phi",
         "currentTeamId": "phi",
-        "value": 71,
+        "value": 58,
         "originalPickRank": 55,
         "id": "2028_R2_phi"
     },
@@ -10498,7 +10500,7 @@ const draftPicks2028 = [
         "round": 2,
         "originalTeamId": "jax",
         "currentTeamId": "jax",
-        "value": 71,
+        "value": 58,
         "originalPickRank": 56,
         "id": "2028_R2_jax"
     },
@@ -10507,7 +10509,7 @@ const draftPicks2028 = [
         "round": 2,
         "originalTeamId": "chi",
         "currentTeamId": "chi",
-        "value": 58,
+        "value": 56,
         "originalPickRank": 57,
         "id": "2028_R2_chi"
     },
@@ -10516,7 +10518,7 @@ const draftPicks2028 = [
         "round": 2,
         "originalTeamId": "buf",
         "currentTeamId": "buf",
-        "value": 58,
+        "value": 56,
         "originalPickRank": 58,
         "id": "2028_R2_buf"
     },
@@ -10525,7 +10527,7 @@ const draftPicks2028 = [
         "round": 2,
         "originalTeamId": "sf",
         "currentTeamId": "sf",
-        "value": 58,
+        "value": 55,
         "originalPickRank": 59,
         "id": "2028_R2_sf"
     },
@@ -10534,7 +10536,7 @@ const draftPicks2028 = [
         "round": 2,
         "originalTeamId": "hou",
         "currentTeamId": "hou",
-        "value": 58,
+        "value": 55,
         "originalPickRank": 60,
         "id": "2028_R2_hou"
     },
@@ -10543,7 +10545,7 @@ const draftPicks2028 = [
         "round": 2,
         "originalTeamId": "lar",
         "currentTeamId": "lar",
-        "value": 58,
+        "value": 54,
         "originalPickRank": 61,
         "id": "2028_R2_lar"
     },
@@ -10552,7 +10554,7 @@ const draftPicks2028 = [
         "round": 2,
         "originalTeamId": "den",
         "currentTeamId": "den",
-        "value": 58,
+        "value": 54,
         "originalPickRank": 62,
         "id": "2028_R2_den"
     },
@@ -10561,7 +10563,7 @@ const draftPicks2028 = [
         "round": 2,
         "originalTeamId": "ne",
         "currentTeamId": "ne",
-        "value": 58,
+        "value": 52,
         "originalPickRank": 63,
         "id": "2028_R2_ne"
     },
@@ -10570,7 +10572,7 @@ const draftPicks2028 = [
         "round": 2,
         "originalTeamId": "sea",
         "currentTeamId": "sea",
-        "value": 58,
+        "value": 52,
         "originalPickRank": 64,
         "id": "2028_R2_sea"
     },
@@ -10579,7 +10581,7 @@ const draftPicks2028 = [
         "round": 3,
         "originalTeamId": "lv",
         "currentTeamId": "lv",
-        "value": 46,
+        "value": 44,
         "originalPickRank": 65,
         "id": "2028_R3_lv"
     },
@@ -10588,7 +10590,7 @@ const draftPicks2028 = [
         "round": 3,
         "originalTeamId": "nyj",
         "currentTeamId": "nyj",
-        "value": 46,
+        "value": 44,
         "originalPickRank": 66,
         "id": "2028_R3_nyj"
     },
@@ -10597,7 +10599,7 @@ const draftPicks2028 = [
         "round": 3,
         "originalTeamId": "ari",
         "currentTeamId": "ari",
-        "value": 46,
+        "value": 44,
         "originalPickRank": 67,
         "id": "2028_R3_ari"
     },
@@ -10606,7 +10608,7 @@ const draftPicks2028 = [
         "round": 3,
         "originalTeamId": "ten",
         "currentTeamId": "ten",
-        "value": 46,
+        "value": 42,
         "originalPickRank": 68,
         "id": "2028_R3_ten"
     },
@@ -10615,7 +10617,7 @@ const draftPicks2028 = [
         "round": 3,
         "originalTeamId": "nyg",
         "currentTeamId": "nyg",
-        "value": 46,
+        "value": 42,
         "originalPickRank": 69,
         "id": "2028_R3_nyg"
     },
@@ -10624,7 +10626,7 @@ const draftPicks2028 = [
         "round": 3,
         "originalTeamId": "cle",
         "currentTeamId": "cle",
-        "value": 46,
+        "value": 42,
         "originalPickRank": 70,
         "id": "2028_R3_cle"
     },
@@ -10633,7 +10635,7 @@ const draftPicks2028 = [
         "round": 3,
         "originalTeamId": "was",
         "currentTeamId": "was",
-        "value": 46,
+        "value": 42,
         "originalPickRank": 71,
         "id": "2028_R3_was"
     },
@@ -10642,7 +10644,7 @@ const draftPicks2028 = [
         "round": 3,
         "originalTeamId": "no",
         "currentTeamId": "no",
-        "value": 46,
+        "value": 41,
         "originalPickRank": 72,
         "id": "2028_R3_no"
     },
@@ -10651,7 +10653,7 @@ const draftPicks2028 = [
         "round": 3,
         "originalTeamId": "kc",
         "currentTeamId": "kc",
-        "value": 46,
+        "value": 41,
         "originalPickRank": 73,
         "id": "2028_R3_kc"
     },
@@ -10660,7 +10662,7 @@ const draftPicks2028 = [
         "round": 3,
         "originalTeamId": "cin",
         "currentTeamId": "cin",
-        "value": 46,
+        "value": 40,
         "originalPickRank": 74,
         "id": "2028_R3_cin"
     },
@@ -10669,7 +10671,7 @@ const draftPicks2028 = [
         "round": 3,
         "originalTeamId": "mia",
         "currentTeamId": "mia",
-        "value": 39,
+        "value": 40,
         "originalPickRank": 75,
         "id": "2028_R3_mia"
     },
@@ -10678,7 +10680,7 @@ const draftPicks2028 = [
         "round": 3,
         "originalTeamId": "dal",
         "currentTeamId": "dal",
-        "value": 39,
+        "value": 36,
         "originalPickRank": 76,
         "id": "2028_R3_dal"
     },
@@ -10687,7 +10689,7 @@ const draftPicks2028 = [
         "round": 3,
         "originalTeamId": "atl",
         "currentTeamId": "atl",
-        "value": 39,
+        "value": 35,
         "originalPickRank": 77,
         "id": "2028_R3_atl"
     },
@@ -10696,7 +10698,7 @@ const draftPicks2028 = [
         "round": 3,
         "originalTeamId": "bal",
         "currentTeamId": "bal",
-        "value": 39,
+        "value": 35,
         "originalPickRank": 78,
         "id": "2028_R3_bal"
     },
@@ -10705,7 +10707,7 @@ const draftPicks2028 = [
         "round": 3,
         "originalTeamId": "tb",
         "currentTeamId": "tb",
-        "value": 39,
+        "value": 34,
         "originalPickRank": 79,
         "id": "2028_R3_tb"
     },
@@ -10714,7 +10716,7 @@ const draftPicks2028 = [
         "round": 3,
         "originalTeamId": "ind",
         "currentTeamId": "ind",
-        "value": 39,
+        "value": 34,
         "originalPickRank": 80,
         "id": "2028_R3_ind"
     },
@@ -10759,7 +10761,7 @@ const draftPicks2028 = [
         "round": 3,
         "originalTeamId": "pit",
         "currentTeamId": "pit",
-        "value": 33,
+        "value": 32,
         "originalPickRank": 85,
         "id": "2028_R3_pit"
     },
@@ -10768,7 +10770,7 @@ const draftPicks2028 = [
         "round": 3,
         "originalTeamId": "lac",
         "currentTeamId": "lac",
-        "value": 33,
+        "value": 32,
         "originalPickRank": 86,
         "id": "2028_R3_lac"
     },
@@ -10777,7 +10779,7 @@ const draftPicks2028 = [
         "round": 3,
         "originalTeamId": "phi",
         "currentTeamId": "phi",
-        "value": 33,
+        "value": 28,
         "originalPickRank": 87,
         "id": "2028_R3_phi"
     },
@@ -10786,7 +10788,7 @@ const draftPicks2028 = [
         "round": 3,
         "originalTeamId": "jax",
         "currentTeamId": "jax",
-        "value": 33,
+        "value": 28,
         "originalPickRank": 88,
         "id": "2028_R3_jax"
     },
@@ -10795,7 +10797,7 @@ const draftPicks2028 = [
         "round": 3,
         "originalTeamId": "chi",
         "currentTeamId": "chi",
-        "value": 28,
+        "value": 27,
         "originalPickRank": 89,
         "id": "2028_R3_chi"
     },
@@ -10804,7 +10806,7 @@ const draftPicks2028 = [
         "round": 3,
         "originalTeamId": "buf",
         "currentTeamId": "buf",
-        "value": 28,
+        "value": 27,
         "originalPickRank": 90,
         "id": "2028_R3_buf"
     },
@@ -10813,7 +10815,7 @@ const draftPicks2028 = [
         "round": 3,
         "originalTeamId": "sf",
         "currentTeamId": "sf",
-        "value": 28,
+        "value": 27,
         "originalPickRank": 91,
         "id": "2028_R3_sf"
     },
@@ -10822,7 +10824,7 @@ const draftPicks2028 = [
         "round": 3,
         "originalTeamId": "hou",
         "currentTeamId": "hou",
-        "value": 28,
+        "value": 27,
         "originalPickRank": 92,
         "id": "2028_R3_hou"
     },
@@ -10831,7 +10833,7 @@ const draftPicks2028 = [
         "round": 3,
         "originalTeamId": "lar",
         "currentTeamId": "lar",
-        "value": 28,
+        "value": 26,
         "originalPickRank": 93,
         "id": "2028_R3_lar"
     },
@@ -10840,7 +10842,7 @@ const draftPicks2028 = [
         "round": 3,
         "originalTeamId": "den",
         "currentTeamId": "den",
-        "value": 28,
+        "value": 26,
         "originalPickRank": 94,
         "id": "2028_R3_den"
     },
@@ -10849,7 +10851,7 @@ const draftPicks2028 = [
         "round": 3,
         "originalTeamId": "ne",
         "currentTeamId": "ne",
-        "value": 28,
+        "value": 25,
         "originalPickRank": 95,
         "id": "2028_R3_ne"
     },
@@ -10858,7 +10860,7 @@ const draftPicks2028 = [
         "round": 3,
         "originalTeamId": "sea",
         "currentTeamId": "sea",
-        "value": 28,
+        "value": 25,
         "originalPickRank": 96,
         "id": "2028_R3_sea"
     },
@@ -10867,7 +10869,7 @@ const draftPicks2028 = [
         "round": 4,
         "originalTeamId": "lv",
         "currentTeamId": "lv",
-        "value": 22,
+        "value": 21,
         "originalPickRank": 97,
         "id": "2028_R4_lv"
     },
@@ -10876,7 +10878,7 @@ const draftPicks2028 = [
         "round": 4,
         "originalTeamId": "nyj",
         "currentTeamId": "nyj",
-        "value": 22,
+        "value": 21,
         "originalPickRank": 98,
         "id": "2028_R4_nyj"
     },
@@ -10885,7 +10887,7 @@ const draftPicks2028 = [
         "round": 4,
         "originalTeamId": "ari",
         "currentTeamId": "ari",
-        "value": 22,
+        "value": 21,
         "originalPickRank": 99,
         "id": "2028_R4_ari"
     },
@@ -10894,7 +10896,7 @@ const draftPicks2028 = [
         "round": 4,
         "originalTeamId": "ten",
         "currentTeamId": "ten",
-        "value": 22,
+        "value": 21,
         "originalPickRank": 100,
         "id": "2028_R4_ten"
     },
@@ -10903,7 +10905,7 @@ const draftPicks2028 = [
         "round": 4,
         "originalTeamId": "nyg",
         "currentTeamId": "nyg",
-        "value": 22,
+        "value": 21,
         "originalPickRank": 101,
         "id": "2028_R4_nyg"
     },
@@ -10912,7 +10914,7 @@ const draftPicks2028 = [
         "round": 4,
         "originalTeamId": "cle",
         "currentTeamId": "cle",
-        "value": 22,
+        "value": 21,
         "originalPickRank": 102,
         "id": "2028_R4_cle"
     },
@@ -10921,7 +10923,7 @@ const draftPicks2028 = [
         "round": 4,
         "originalTeamId": "was",
         "currentTeamId": "was",
-        "value": 22,
+        "value": 21,
         "originalPickRank": 103,
         "id": "2028_R4_was"
     },
@@ -10930,7 +10932,7 @@ const draftPicks2028 = [
         "round": 4,
         "originalTeamId": "no",
         "currentTeamId": "no",
-        "value": 22,
+        "value": 20,
         "originalPickRank": 104,
         "id": "2028_R4_no"
     },
@@ -10939,7 +10941,7 @@ const draftPicks2028 = [
         "round": 4,
         "originalTeamId": "kc",
         "currentTeamId": "kc",
-        "value": 22,
+        "value": 20,
         "originalPickRank": 105,
         "id": "2028_R4_kc"
     },
@@ -10948,7 +10950,7 @@ const draftPicks2028 = [
         "round": 4,
         "originalTeamId": "cin",
         "currentTeamId": "cin",
-        "value": 22,
+        "value": 20,
         "originalPickRank": 106,
         "id": "2028_R4_cin"
     },
@@ -10957,7 +10959,7 @@ const draftPicks2028 = [
         "round": 4,
         "originalTeamId": "mia",
         "currentTeamId": "mia",
-        "value": 19,
+        "value": 20,
         "originalPickRank": 107,
         "id": "2028_R4_mia"
     },
@@ -10966,7 +10968,7 @@ const draftPicks2028 = [
         "round": 4,
         "originalTeamId": "dal",
         "currentTeamId": "dal",
-        "value": 19,
+        "value": 18,
         "originalPickRank": 108,
         "id": "2028_R4_dal"
     },
@@ -10975,7 +10977,7 @@ const draftPicks2028 = [
         "round": 4,
         "originalTeamId": "atl",
         "currentTeamId": "atl",
-        "value": 19,
+        "value": 18,
         "originalPickRank": 109,
         "id": "2028_R4_atl"
     },
@@ -10984,7 +10986,7 @@ const draftPicks2028 = [
         "round": 4,
         "originalTeamId": "bal",
         "currentTeamId": "bal",
-        "value": 19,
+        "value": 18,
         "originalPickRank": 110,
         "id": "2028_R4_bal"
     },
@@ -10993,7 +10995,7 @@ const draftPicks2028 = [
         "round": 4,
         "originalTeamId": "tb",
         "currentTeamId": "tb",
-        "value": 19,
+        "value": 17,
         "originalPickRank": 111,
         "id": "2028_R4_tb"
     },
@@ -11002,7 +11004,7 @@ const draftPicks2028 = [
         "round": 4,
         "originalTeamId": "ind",
         "currentTeamId": "ind",
-        "value": 19,
+        "value": 17,
         "originalPickRank": 112,
         "id": "2028_R4_ind"
     },
@@ -11047,7 +11049,7 @@ const draftPicks2028 = [
         "round": 4,
         "originalTeamId": "pit",
         "currentTeamId": "pit",
-        "value": 17,
+        "value": 16,
         "originalPickRank": 117,
         "id": "2028_R4_pit"
     },
@@ -11056,7 +11058,7 @@ const draftPicks2028 = [
         "round": 4,
         "originalTeamId": "lac",
         "currentTeamId": "lac",
-        "value": 17,
+        "value": 16,
         "originalPickRank": 118,
         "id": "2028_R4_lac"
     },
@@ -11065,7 +11067,7 @@ const draftPicks2028 = [
         "round": 4,
         "originalTeamId": "phi",
         "currentTeamId": "phi",
-        "value": 17,
+        "value": 14,
         "originalPickRank": 119,
         "id": "2028_R4_phi"
     },
@@ -11074,7 +11076,7 @@ const draftPicks2028 = [
         "round": 4,
         "originalTeamId": "jax",
         "currentTeamId": "jax",
-        "value": 17,
+        "value": 14,
         "originalPickRank": 120,
         "id": "2028_R4_jax"
     },
@@ -11083,7 +11085,7 @@ const draftPicks2028 = [
         "round": 4,
         "originalTeamId": "chi",
         "currentTeamId": "chi",
-        "value": 14,
+        "value": 13,
         "originalPickRank": 121,
         "id": "2028_R4_chi"
     },
@@ -11092,7 +11094,7 @@ const draftPicks2028 = [
         "round": 4,
         "originalTeamId": "buf",
         "currentTeamId": "buf",
-        "value": 14,
+        "value": 13,
         "originalPickRank": 122,
         "id": "2028_R4_buf"
     },
@@ -11101,7 +11103,7 @@ const draftPicks2028 = [
         "round": 4,
         "originalTeamId": "sf",
         "currentTeamId": "sf",
-        "value": 14,
+        "value": 13,
         "originalPickRank": 123,
         "id": "2028_R4_sf"
     },
@@ -11110,7 +11112,7 @@ const draftPicks2028 = [
         "round": 4,
         "originalTeamId": "hou",
         "currentTeamId": "hou",
-        "value": 14,
+        "value": 13,
         "originalPickRank": 124,
         "id": "2028_R4_hou"
     },
@@ -11119,7 +11121,7 @@ const draftPicks2028 = [
         "round": 4,
         "originalTeamId": "lar",
         "currentTeamId": "lar",
-        "value": 14,
+        "value": 13,
         "originalPickRank": 125,
         "id": "2028_R4_lar"
     },
@@ -11128,7 +11130,7 @@ const draftPicks2028 = [
         "round": 4,
         "originalTeamId": "den",
         "currentTeamId": "den",
-        "value": 14,
+        "value": 13,
         "originalPickRank": 126,
         "id": "2028_R4_den"
     },
@@ -11137,7 +11139,7 @@ const draftPicks2028 = [
         "round": 4,
         "originalTeamId": "ne",
         "currentTeamId": "ne",
-        "value": 14,
+        "value": 13,
         "originalPickRank": 127,
         "id": "2028_R4_ne"
     },
@@ -11146,7 +11148,7 @@ const draftPicks2028 = [
         "round": 4,
         "originalTeamId": "sea",
         "currentTeamId": "sea",
-        "value": 14,
+        "value": 13,
         "originalPickRank": 128,
         "id": "2028_R4_sea"
     },
@@ -11182,7 +11184,7 @@ const draftPicks2028 = [
         "round": 5,
         "originalTeamId": "ten",
         "currentTeamId": "ten",
-        "value": 11,
+        "value": 10,
         "originalPickRank": 132,
         "id": "2028_R5_ten"
     },
@@ -11191,7 +11193,7 @@ const draftPicks2028 = [
         "round": 5,
         "originalTeamId": "nyg",
         "currentTeamId": "nyg",
-        "value": 11,
+        "value": 10,
         "originalPickRank": 133,
         "id": "2028_R5_nyg"
     },
@@ -11200,7 +11202,7 @@ const draftPicks2028 = [
         "round": 5,
         "originalTeamId": "cle",
         "currentTeamId": "cle",
-        "value": 11,
+        "value": 10,
         "originalPickRank": 134,
         "id": "2028_R5_cle"
     },
@@ -11209,7 +11211,7 @@ const draftPicks2028 = [
         "round": 5,
         "originalTeamId": "was",
         "currentTeamId": "was",
-        "value": 11,
+        "value": 10,
         "originalPickRank": 135,
         "id": "2028_R5_was"
     },
@@ -11218,7 +11220,7 @@ const draftPicks2028 = [
         "round": 5,
         "originalTeamId": "no",
         "currentTeamId": "no",
-        "value": 11,
+        "value": 9,
         "originalPickRank": 136,
         "id": "2028_R5_no"
     },
@@ -11227,7 +11229,7 @@ const draftPicks2028 = [
         "round": 5,
         "originalTeamId": "kc",
         "currentTeamId": "kc",
-        "value": 11,
+        "value": 9,
         "originalPickRank": 137,
         "id": "2028_R5_kc"
     },
@@ -11236,7 +11238,7 @@ const draftPicks2028 = [
         "round": 5,
         "originalTeamId": "cin",
         "currentTeamId": "cin",
-        "value": 11,
+        "value": 9,
         "originalPickRank": 138,
         "id": "2028_R5_cin"
     },
@@ -11254,7 +11256,7 @@ const draftPicks2028 = [
         "round": 5,
         "originalTeamId": "dal",
         "currentTeamId": "dal",
-        "value": 9,
+        "value": 8,
         "originalPickRank": 140,
         "id": "2028_R5_dal"
     },
@@ -11263,7 +11265,7 @@ const draftPicks2028 = [
         "round": 5,
         "originalTeamId": "atl",
         "currentTeamId": "atl",
-        "value": 9,
+        "value": 8,
         "originalPickRank": 141,
         "id": "2028_R5_atl"
     },
@@ -11272,7 +11274,7 @@ const draftPicks2028 = [
         "round": 5,
         "originalTeamId": "bal",
         "currentTeamId": "bal",
-        "value": 9,
+        "value": 8,
         "originalPickRank": 142,
         "id": "2028_R5_bal"
     },
@@ -11281,7 +11283,7 @@ const draftPicks2028 = [
         "round": 5,
         "originalTeamId": "tb",
         "currentTeamId": "tb",
-        "value": 9,
+        "value": 8,
         "originalPickRank": 143,
         "id": "2028_R5_tb"
     },
@@ -11290,7 +11292,7 @@ const draftPicks2028 = [
         "round": 5,
         "originalTeamId": "ind",
         "currentTeamId": "ind",
-        "value": 9,
+        "value": 8,
         "originalPickRank": 144,
         "id": "2028_R5_ind"
     },
@@ -11317,7 +11319,7 @@ const draftPicks2028 = [
         "round": 5,
         "originalTeamId": "car",
         "currentTeamId": "car",
-        "value": 8,
+        "value": 7,
         "originalPickRank": 147,
         "id": "2028_R5_car"
     },
@@ -11326,7 +11328,7 @@ const draftPicks2028 = [
         "round": 5,
         "originalTeamId": "gb",
         "currentTeamId": "gb",
-        "value": 8,
+        "value": 7,
         "originalPickRank": 148,
         "id": "2028_R5_gb"
     },
@@ -11335,7 +11337,7 @@ const draftPicks2028 = [
         "round": 5,
         "originalTeamId": "pit",
         "currentTeamId": "pit",
-        "value": 8,
+        "value": 7,
         "originalPickRank": 149,
         "id": "2028_R5_pit"
     },
@@ -11344,7 +11346,7 @@ const draftPicks2028 = [
         "round": 5,
         "originalTeamId": "lac",
         "currentTeamId": "lac",
-        "value": 8,
+        "value": 7,
         "originalPickRank": 150,
         "id": "2028_R5_lac"
     },
@@ -11353,7 +11355,7 @@ const draftPicks2028 = [
         "round": 5,
         "originalTeamId": "phi",
         "currentTeamId": "phi",
-        "value": 8,
+        "value": 7,
         "originalPickRank": 151,
         "id": "2028_R5_phi"
     },
@@ -11362,7 +11364,7 @@ const draftPicks2028 = [
         "round": 5,
         "originalTeamId": "jax",
         "currentTeamId": "jax",
-        "value": 8,
+        "value": 7,
         "originalPickRank": 152,
         "id": "2028_R5_jax"
     },
@@ -11371,7 +11373,7 @@ const draftPicks2028 = [
         "round": 5,
         "originalTeamId": "chi",
         "currentTeamId": "chi",
-        "value": 7,
+        "value": 6,
         "originalPickRank": 153,
         "id": "2028_R5_chi"
     },
@@ -11380,7 +11382,7 @@ const draftPicks2028 = [
         "round": 5,
         "originalTeamId": "buf",
         "currentTeamId": "buf",
-        "value": 7,
+        "value": 6,
         "originalPickRank": 154,
         "id": "2028_R5_buf"
     },
@@ -11389,7 +11391,7 @@ const draftPicks2028 = [
         "round": 5,
         "originalTeamId": "sf",
         "currentTeamId": "sf",
-        "value": 7,
+        "value": 6,
         "originalPickRank": 155,
         "id": "2028_R5_sf"
     },
@@ -11398,7 +11400,7 @@ const draftPicks2028 = [
         "round": 5,
         "originalTeamId": "hou",
         "currentTeamId": "hou",
-        "value": 7,
+        "value": 6,
         "originalPickRank": 156,
         "id": "2028_R5_hou"
     },
@@ -11407,7 +11409,7 @@ const draftPicks2028 = [
         "round": 5,
         "originalTeamId": "lar",
         "currentTeamId": "lar",
-        "value": 7,
+        "value": 6,
         "originalPickRank": 157,
         "id": "2028_R5_lar"
     },
@@ -11416,7 +11418,7 @@ const draftPicks2028 = [
         "round": 5,
         "originalTeamId": "den",
         "currentTeamId": "den",
-        "value": 7,
+        "value": 6,
         "originalPickRank": 158,
         "id": "2028_R5_den"
     },
@@ -11425,7 +11427,7 @@ const draftPicks2028 = [
         "round": 5,
         "originalTeamId": "ne",
         "currentTeamId": "ne",
-        "value": 7,
+        "value": 6,
         "originalPickRank": 159,
         "id": "2028_R5_ne"
     },
@@ -11434,7 +11436,7 @@ const draftPicks2028 = [
         "round": 5,
         "originalTeamId": "sea",
         "currentTeamId": "sea",
-        "value": 7,
+        "value": 6,
         "originalPickRank": 160,
         "id": "2028_R5_sea"
     },
@@ -11605,7 +11607,7 @@ const draftPicks2028 = [
         "round": 6,
         "originalTeamId": "car",
         "currentTeamId": "car",
-        "value": 5,
+        "value": 4,
         "originalPickRank": 179,
         "id": "2028_R6_car"
     },
@@ -11614,7 +11616,7 @@ const draftPicks2028 = [
         "round": 6,
         "originalTeamId": "gb",
         "currentTeamId": "gb",
-        "value": 5,
+        "value": 4,
         "originalPickRank": 180,
         "id": "2028_R6_gb"
     },
@@ -11623,7 +11625,7 @@ const draftPicks2028 = [
         "round": 6,
         "originalTeamId": "pit",
         "currentTeamId": "pit",
-        "value": 5,
+        "value": 4,
         "originalPickRank": 181,
         "id": "2028_R6_pit"
     },
@@ -11632,7 +11634,7 @@ const draftPicks2028 = [
         "round": 6,
         "originalTeamId": "lac",
         "currentTeamId": "lac",
-        "value": 5,
+        "value": 4,
         "originalPickRank": 182,
         "id": "2028_R6_lac"
     },
@@ -11641,7 +11643,7 @@ const draftPicks2028 = [
         "round": 6,
         "originalTeamId": "phi",
         "currentTeamId": "phi",
-        "value": 5,
+        "value": 4,
         "originalPickRank": 183,
         "id": "2028_R6_phi"
     },
@@ -11650,7 +11652,7 @@ const draftPicks2028 = [
         "round": 6,
         "originalTeamId": "jax",
         "currentTeamId": "jax",
-        "value": 5,
+        "value": 4,
         "originalPickRank": 184,
         "id": "2028_R6_jax"
     },
@@ -11659,7 +11661,7 @@ const draftPicks2028 = [
         "round": 6,
         "originalTeamId": "chi",
         "currentTeamId": "chi",
-        "value": 4,
+        "value": 3,
         "originalPickRank": 185,
         "id": "2028_R6_chi"
     },
@@ -11668,7 +11670,7 @@ const draftPicks2028 = [
         "round": 6,
         "originalTeamId": "buf",
         "currentTeamId": "buf",
-        "value": 4,
+        "value": 3,
         "originalPickRank": 186,
         "id": "2028_R6_buf"
     },
@@ -11677,7 +11679,7 @@ const draftPicks2028 = [
         "round": 6,
         "originalTeamId": "sf",
         "currentTeamId": "sf",
-        "value": 4,
+        "value": 3,
         "originalPickRank": 187,
         "id": "2028_R6_sf"
     },
@@ -11686,7 +11688,7 @@ const draftPicks2028 = [
         "round": 6,
         "originalTeamId": "hou",
         "currentTeamId": "hou",
-        "value": 4,
+        "value": 3,
         "originalPickRank": 188,
         "id": "2028_R6_hou"
     },
@@ -11695,7 +11697,7 @@ const draftPicks2028 = [
         "round": 6,
         "originalTeamId": "lar",
         "currentTeamId": "lar",
-        "value": 4,
+        "value": 3,
         "originalPickRank": 189,
         "id": "2028_R6_lar"
     },
@@ -11704,7 +11706,7 @@ const draftPicks2028 = [
         "round": 6,
         "originalTeamId": "den",
         "currentTeamId": "den",
-        "value": 4,
+        "value": 3,
         "originalPickRank": 190,
         "id": "2028_R6_den"
     },
@@ -11713,7 +11715,7 @@ const draftPicks2028 = [
         "round": 6,
         "originalTeamId": "ne",
         "currentTeamId": "ne",
-        "value": 4,
+        "value": 3,
         "originalPickRank": 191,
         "id": "2028_R6_ne"
     },
@@ -11722,7 +11724,7 @@ const draftPicks2028 = [
         "round": 6,
         "originalTeamId": "sea",
         "currentTeamId": "sea",
-        "value": 4,
+        "value": 3,
         "originalPickRank": 192,
         "id": "2028_R6_sea"
     },
@@ -11830,7 +11832,7 @@ const draftPicks2028 = [
         "round": 7,
         "originalTeamId": "dal",
         "currentTeamId": "dal",
-        "value": 3,
+        "value": 2,
         "originalPickRank": 204,
         "id": "2028_R7_dal"
     },
@@ -11839,7 +11841,7 @@ const draftPicks2028 = [
         "round": 7,
         "originalTeamId": "atl",
         "currentTeamId": "atl",
-        "value": 3,
+        "value": 2,
         "originalPickRank": 205,
         "id": "2028_R7_atl"
     },
@@ -11848,7 +11850,7 @@ const draftPicks2028 = [
         "round": 7,
         "originalTeamId": "bal",
         "currentTeamId": "bal",
-        "value": 3,
+        "value": 2,
         "originalPickRank": 206,
         "id": "2028_R7_bal"
     },
@@ -11857,7 +11859,7 @@ const draftPicks2028 = [
         "round": 7,
         "originalTeamId": "tb",
         "currentTeamId": "tb",
-        "value": 3,
+        "value": 2,
         "originalPickRank": 207,
         "id": "2028_R7_tb"
     },
@@ -11866,7 +11868,7 @@ const draftPicks2028 = [
         "round": 7,
         "originalTeamId": "ind",
         "currentTeamId": "ind",
-        "value": 3,
+        "value": 2,
         "originalPickRank": 208,
         "id": "2028_R7_ind"
     },
@@ -11983,7 +11985,7 @@ const draftPicks2028 = [
         "round": 7,
         "originalTeamId": "lar",
         "currentTeamId": "lar",
-        "value": 2,
+        "value": 1,
         "originalPickRank": 221,
         "id": "2028_R7_lar"
     },
@@ -11992,7 +11994,7 @@ const draftPicks2028 = [
         "round": 7,
         "originalTeamId": "den",
         "currentTeamId": "den",
-        "value": 2,
+        "value": 1,
         "originalPickRank": 222,
         "id": "2028_R7_den"
     },
@@ -12001,7 +12003,7 @@ const draftPicks2028 = [
         "round": 7,
         "originalTeamId": "ne",
         "currentTeamId": "ne",
-        "value": 2,
+        "value": 1,
         "originalPickRank": 223,
         "id": "2028_R7_ne"
     },
@@ -12010,7 +12012,7 @@ const draftPicks2028 = [
         "round": 7,
         "originalTeamId": "sea",
         "currentTeamId": "sea",
-        "value": 2,
+        "value": 1,
         "originalPickRank": 224,
         "id": "2028_R7_sea"
     }

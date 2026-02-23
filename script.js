@@ -66,6 +66,7 @@ function setLanguage(lang) {
 function init() {
     availableProspects = [...draftProspects]; // Reset available prospects
     userDraftClass = [];
+    userExecutedTrades = []; // New tracker for final modal
     renderTeams();
     setupFilters();
 }
@@ -674,6 +675,28 @@ function showSuccessModal() {
         });
     }
 
+    const tradeSummaryContainer = document.getElementById('trade-history-summary');
+    const tradeHistoryList = document.getElementById('trade-history-list');
+
+    if (userExecutedTrades && userExecutedTrades.length > 0) {
+        if (tradeSummaryContainer) tradeSummaryContainer.style.display = 'block';
+        if (tradeHistoryList) {
+            tradeHistoryList.innerHTML = '';
+            userExecutedTrades.forEach(trade => {
+                const li = document.createElement('li');
+                li.style.padding = "0.5rem 0";
+                li.style.borderBottom = "1px solid rgba(255,255,255,0.1)";
+                li.innerHTML = `<strong>With ${trade.partner}:</strong><br>
+                    <span style="color: var(--color-success)">Received:</span> ${trade.received}<br>
+                    <span style="color: var(--color-warning)">Sent:</span> ${trade.sent}`;
+                tradeHistoryList.appendChild(li);
+            });
+        }
+    } else {
+        if (tradeSummaryContainer) tradeSummaryContainer.style.display = 'none';
+        if (tradeHistoryList) tradeHistoryList.innerHTML = '';
+    }
+
     successModal.classList.remove('hidden');
 }
 
@@ -994,6 +1017,12 @@ function submitTradeProposal() {
         </div>
     `;
     trackerList.prepend(item);
+
+    userExecutedTrades.push({
+        partner: teams.find(t => t.id === tradePartnerId).name,
+        sent: userAssetsSent || 'Nothing',
+        received: partnerAssetsSent || 'Nothing'
+    });
 
     alert("Trade Accepted! Pick ownerships have been transferred.");
     closeTradeModal();
