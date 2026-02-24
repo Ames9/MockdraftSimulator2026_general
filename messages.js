@@ -37,7 +37,14 @@ const teamSpecificMessages = {
     },
     "gb": { ja: ["ウォー・ルームへようこそ。1巡がないのにモックドラフト...暇なんですか？"], en: ["Welcome to the War Room... Mock drafting without a 1st round pick... do you have too much free time?"] },
     "ind": { ja: ["ウォー・ルームへようこそ。1巡がないのにモックドラフト...暇なんですか？"], en: ["Welcome to the War Room... Mock drafting without a 1st round pick... do you have too much free time?"] },
-    "jax": { ja: ["ウォー・ルームへようこそ。1巡がないのにモックドラフト...暇なんですか？"], en: ["Welcome to the War Room... Mock drafting without a 1st round pick... do you have too much free time?"] },
+    "jax": {
+        ja: [
+            "ウォー・ルームへようこそ。今年はドラフトルームにプールを設置してみました！"
+        ],
+        en: [
+            "Welcome to the War Room. We've set up a pool in the draft room this year!"
+        ]
+    },
     "atl": { ja: ["ウォー・ルームへようこそ。1巡指名がなくても諦めてはいけませんよ。NFLでは、28-3からでも逆転できるんですから。"], en: ["Welcome to the War Room. Don't give up just because you don't have a 1st round pick. In the NFL, you can come back from 28-3."] },
     "sf": {
         ja: [
@@ -51,19 +58,55 @@ const teamSpecificMessages = {
             "Welcome to the War Room. Faithful to The Bay! A successful draft holds the key to the next Super Bowl victory."
         ]
     },
-    "car": { ja: ["ウォー・ルームへようこそ。昨年は8勝9敗で地区優勝とプレーオフ出場という素晴らしいシーズンでした。"], en: ["Welcome to the War Room. Last year was a fantastic season, winning the division and making the playoffs with an 8-9 record."] },
-    "lv": { ja: ["ウォー・ルームへようこそ。JaMarcus Russell以来20年ぶりの全体1位指名、ワクワクしますね！"], en: ["Welcome to the War Room. The first overall pick for the first time in 20 years since JaMarcus Russell, how exciting!"] },
+    "car": {
+        ja: [
+            "ウォー・ルームへようこそ。昨年は8勝9敗で地区優勝とプレーオフ出場という素晴らしいシーズンでした。",
+            "あなたはPanthersのGMとして指揮を執ることになりました...が、指名はオーナーの指示に従ってください。"
+        ],
+        en: [
+            "Welcome to the War Room. Last year was a fantastic season, winning the division and making the playoffs with an 8-9 record.",
+            "You've taken the helm as the Panthers GM... but please follow the owner's instructions for your picks."
+        ]
+    },
+    "lv": {
+        ja: [
+            "ウォー・ルームへようこそ。JaMarcus Russell以来20年ぶりの全体1位指名、ワクワクしますね！",
+            "あなたはRaidersのGMとして指揮を執ることになりました。聞いてください！今年は40ヤードを4.27秒で走ったWRがいますよ！"
+        ],
+        en: [
+            "Welcome to the War Room. The first overall pick for the first time in 20 years since JaMarcus Russell, how exciting!",
+            "You've taken the helm as the Raiders GM. Listen to this! There's a WR who ran a 4.27 40-yard dash this year!"
+        ]
+    },
     "den": { ja: ["ウォー・ルームへようこそ。来年のスーパーボウル進出に向けた勝負のドラフトです。希望の未来へLet's Ride!"], en: ["Welcome to the War Room. This is a crucial draft for reaching the Super Bowl next year. Let's Ride to a hopeful future!"] },
     "cle": { ja: ["ウォー・ルームへようこそ。昨年は2人のプロボウルQBを輩出した大成功のシーズンでしたね。"], en: ["Welcome to the War Room. Last year was a highly successful season, producing two Pro Bowl QBs."] },
     "ari": { ja: ["ウォー・ルームへようこそ。ドラフトは、恥ずべきシーズンから立ち直る最良の手段です。"], en: ["Welcome to the War Room. The draft is the best way to recover from a shameful season."] },
     "bal": { ja: ["ウォー・ルームへようこそ。ドラフト中に行かなくて済むように、トイレだけは今のうちにお願いします。"], en: ["Welcome to the War Room. Please go to the bathroom now so you don't have to go during the draft."] },
     "hou": { ja: ["ウォー・ルームへようこそ。今年もDivisional Round進出を目指して頑張りましょう！"], en: ["Welcome to the War Room. Let's aim to reach the Divisional Round again this year!"] },
-    "lac": { ja: ["ウォー・ルームへようこそ。体調が悪そうですね。ちょうどチームドクターが来ているので、注射を打ってもらいますか？"], en: ["Welcome to the War Room. You don't look so good. The team doctor is here, would you like an injection?"] },
+    "lac": {
+        ja: [
+            "ウォー・ルームへようこそ。体調が悪そうですね。ちょうどチームドクターが来ているので、注射を打ってもらいますか？",
+            "ウォー・ルームへようこそ。同地区に勢いがありますが心配いりませんよ。NFLでは、27-0からでも逆転できるんですから。"
+        ],
+        en: [
+            "Welcome to the War Room. You don't look so good. The team doctor is here, would you like an injection?",
+            "Welcome to the War Room. The division is tough, but don't worry. In the NFL, you can come back even from a 27-0 deficit."
+        ]
+    },
     "chi": { ja: ["ドラフトルームは移転を協議中で、仮会場での実施となります。移設先はアーリントンハイツ...いやインディアナ州...いや..."], en: ["The draft room is currently discussing relocation, so this will be held at a temporary venue. The new location is Arlington Heights... no, Indiana... no..."] },
     "dal": { ja: ["ウォー・ルームへようこそ。今年こそドラフトを成功させ、31年ぶりのSB制覇を...31年ぶり!?"], en: ["Welcome to the War Room. Let's make this draft a success and win our first Super Bowl in 31 years... wait, 31 years!?"] },
     "kc": { ja: ["ウォー・ルームへようこそ。今年は見学者が多くて狭いのですが、ブリタニーとテイラーの間にお座りください。"], en: ["Welcome to the War Room. It's a bit crowded with sightseers this year, but please take a seat between Brittany and Taylor."] },
     "lar": { ja: ["ウォー・ルームへようこそ。部屋が騒がしくてすみません。クラウドノイズ用の音源が誤作動していて..."], en: ["Welcome to the War Room. Sorry for the noise. The crowd noise sound system is malfunctioning..."] },
-    "ne": { ja: ["ウォー・ルームへようこそ。あまり緊張しないでください。心もボールも、ガス抜きが大事ですよ。"], en: ["Welcome to the War Room. Don't be too nervous. It's important to let some air out, both in your heart and in the balls."] },
+    "ne": {
+        ja: [
+            "ウォー・ルームへようこそ。あまり緊張しないでください。心もボールも、ガス抜きが大事ですよ。",
+            "ピックに緊張されているのですか？安心してください。大抵の選手はN'keal HarryやDominique Easleyより活躍してくれます。"
+        ],
+        en: [
+            "Welcome to the War Room. Don't be too nervous. It's important to let some air out, both in your heart and in the balls.",
+            "Nervous about your pick? Rest assured. Most players will perform better than N'keal Harry or Dominique Easley."
+        ]
+    },
     "ten": {
         ja: [
             "ウォー・ルームへようこそ。伝説を作りましょう。私の心は画鋲のように燃えています。",
@@ -75,7 +118,16 @@ const teamSpecificMessages = {
         ]
     },
     "was": { ja: ["あなたはWashington Redskins...じゃない、Football Team...じゃない、CommandersのGMとして指揮を執ることになりました。幸運を祈ります。"], en: ["You've taken the helm as GM of the Washington Redskins... wait, Football Team... wait, Commanders. Good luck."] },
-    "nyg": { ja: ["ウォー・ルームへようこそ。GM就任祝いとして、ミディアムサイズのペプシを1杯無料でご用意しております。"], en: ["Welcome to the War Room. To celebrate your appointment as GM, we've provided one complimentary medium Pepsi."] },
+    "nyg": {
+        ja: [
+            "ウォー・ルームへようこそ。GM就任祝いとして、ミディアムサイズのペプシを1杯無料でご用意しております。",
+            "ウォー・ルームへようこそ。指名のリアルタイムの反応が見られるよう、スタジアムと音声を繋いでみました。"
+        ],
+        en: [
+            "Welcome to the War Room. To celebrate your appointment as GM, we've provided one complimentary medium Pepsi.",
+            "Welcome to the War Room. We've connected the audio to the stadium so you can hear the real-time reaction to your pick."
+        ]
+    },
     "det": { ja: ["ウォー・ルームへようこそ。ドラフトが始まるまで、スポーツベッティングでも楽しまない？"], en: ["Welcome to the War Room. Care to enjoy some sports betting before the draft starts?"] },
     "buf": { ja: ["ウォー・ルームへようこそ。新HCも迎えて、今年から4回連続のスーパーボウル出場を目指しましょう！"], en: ["Welcome to the War Room. With a new HC in place, let's aim for four consecutive Super Bowl appearances starting this year!"] },
     "mia": { ja: ["ウォー・ルームへようこそ。今日は！なんと！ツアのトレードの問い合わせが！来ませんでした。"], en: ["Welcome to the War Room. Guess what, we got exactly zero calls today regarding a trade for Tua!"] },
@@ -84,7 +136,20 @@ const teamSpecificMessages = {
     "nyj": { ja: ["ウォー・ルームへようこそ。昨年はインターセプトゼロという大記録を成し遂げたシーズンでしたね。"], en: ["Welcome to the War Room. Last year was a historic season where you achieved the incredible record of zero interceptions!"] },
     "min": { ja: ["ウォー・ルームへようこそ。ドラフト後の打ち上げには、ボート上でのパーティを企画していますよ。"], en: ["Welcome to the War Room. For the post-draft celebration, we're planning a party on a boat."] },
     "tb": { ja: ["ウォー・ルームへようこそ。今年はハワイ大に素晴らしいキッカーがいるそうです。2巡で獲得しますか？"], en: ["Welcome to the War Room. I hear there's a fantastic kicker at Hawaii this year. Shall we draft him in the 2nd round?"] },
-    "sea": { ja: ["Fxxk the Seahawks"], en: ["Fxxk the Seahawks"] }
+    "sea": {
+        ja: [
+            "ウォー・ルームへようこそ。久しぶりの1巡下位ですね！あなただけのRashaad Penny, L.J. Collier, Jordyn Brooks二世を指名しましょう！",
+            "誰をとってもMalik McDowellよりは試合に出られそうです！",
+            "Seahawksのフロントオフィスは、あなたの指示を待っています。ドラフト権が少ないようですね、まるで2021年みたい。",
+            "あなたはSeahawksのGMとして指揮を執ることになりました。1巡トレード？Jamal Adamsのことを忘れてしまったみたいですね"
+        ],
+        en: [
+            "Welcome to the War Room. A late 1st round pick after a while! Let's draft your very own Rashaad Penny, L.J. Collier, or Jordyn Brooks 2.0!",
+            "Whoever you pick, they'll probably play more games than Malik McDowell!",
+            "The Seahawks front office is waiting for your instructions. Looks like you're short on draft picks, just like in 2021.",
+            "You've taken the helm as the Seahawks GM. A 1st round trade? You must have forgotten about Jamal Adams."
+        ]
+    }
 };
 
 const qbPraiseMessages = {
