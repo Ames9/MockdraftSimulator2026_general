@@ -5587,14 +5587,6 @@ const draftProspects = [
         "isRB": false
     }
 ];
-const saintsPraiseMessages = [
-    "You sure about that? The New Orleans Saints have the best culture, the Superdome is electric, and gumbo is elite. Choose the Saints.",
-    "Access Denied. Why pick another team when you can manage the sheer greatness of the New Orleans Saints?",
-    "Error 404: Logic Not Found. The only correct answer is the New Orleans Saints. They wear black and gold, what more do you want?",
-    "Hold up! Who Dat Nation is calling your name. You physically cannot select another franchise.",
-    "Invalid Input! We both know you meant to click on the New Orleans Saints. Try again."
-];
-
 const draftOrder = [
     {
         "pick": 1,

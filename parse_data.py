@@ -58,10 +58,3 @@ for i in range(len(lines) - 4):
 with open("data.js", "w") as f:
     f.write(f"const teams = {json.dumps(teams, indent=4)};\n")
     f.write(f"const draftProspects = {json.dumps(prospects, indent=4)};\n")
-    f.write(f"const saintsPraiseMessages = [\n")
-    f.write(f'    "You sure about that? The New Orleans Saints have the best culture, the Superdome is electric, and gumbo is elite. Choose the Saints.",\n')
-    f.write(f'    "Access Denied. Why pick another team when you can manage the sheer greatness of the New Orleans Saints?",\n')
-    f.write(f'    "Error 404: Logic Not Found. The only correct answer is the New Orleans Saints. They wear black and gold, what more do you want?",\n')
-    f.write(f'    "Hold up! Who Dat Nation is calling your name. You physically cannot select another franchise.",\n')
-    f.write(f'    "Invalid Input! We both know you meant to click on the New Orleans Saints. Try again."\n')
-    f.write(f"];\n")
