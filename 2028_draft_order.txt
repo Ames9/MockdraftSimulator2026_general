@@ -1,0 +1,896 @@
+Round #	Team	Transactions
+Round 1
+1	49ers
+49ers
+
+ 
+1	Bears
+Bears
+
+ 
+1	Bengals
+Bengals
+ 
+1	Bills
+Bills
+ 
+1	Broncos
+Broncos
+ 
+1	Browns
+Browns
+ 
+1	Buccaneers
+Buccaneers
+
+ 
+1	Cardinals
+Cardinals
+ 
+1	Chargers
+Chargers
+
+ 
+1	Chiefs
+Chiefs
+
+ 
+1	Colts
+Colts
+ 
+1	Commanders
+Commanders
+
+ 
+1	Cowboys
+Cowboys
+
+ 
+1	Dolphins
+Dolphins
+
+ 
+1	Eagles
+Eagles
+
+ 
+1	Falcons
+Falcons
+
+ 
+1	Giants
+Giants
+
+ 
+1	Jaguars
+Jaguars
+
+ 
+1	Jets
+Jets
+
+ 
+1	Lions
+Lions
+
+ 
+1	Packers
+Packers
+
+ 
+1	Panthers
+Panthers
+ 
+1	Patriots
+Patriots
+ 
+1	Raiders
+Raiders
+
+ 
+1	Rams
+Rams
+
+ 
+1	Ravens
+Ravens
+
+ 
+1	Saints
+Saints
+
+ 
+1	Seahawks
+Seahawks
+
+ 
+1	Steelers
+Steelers
+
+ 
+1	Texans
+Texans
+
+ 
+1	Titans
+Titans
+
+ 
+1	Vikings
+Vikings
+
+ 
+Round 2
+2	49ers
+49ers
+
+ 
+2	Bears
+Bears
+
+ 
+2	Bengals
+Bengals
+ 
+2	Bills
+Bills
+ 
+2	Broncos
+Broncos
+ 
+2	Browns
+Browns
+ 
+2	Buccaneers
+Buccaneers
+
+ 
+2	Cardinals
+Cardinals
+ 
+2	Chargers
+Chargers
+
+ 
+2	Chiefs
+Chiefs
+
+ 
+2	Colts
+Colts
+ 
+2	Commanders
+Commanders
+
+ 
+2	Cowboys
+Cowboys
+
+ 
+2	Dolphins
+Dolphins
+
+ 
+2	Eagles
+Eagles
+
+ 
+2	Falcons
+Falcons
+
+ 
+2	Giants
+Giants
+
+ 
+2	Jaguars
+Jaguars
+
+ 
+2	Jets
+Jets
+
+ 
+2	Lions
+Lions
+
+ 
+2	Packers
+Packers
+
+ 
+2	Panthers
+Panthers
+ 
+2	Patriots
+Patriots
+ 
+2	Raiders
+Raiders
+
+ 
+2	Rams
+Rams
+
+ 
+2	Ravens
+Ravens
+
+ 
+2	Saints
+Saints
+
+ 
+2	Seahawks
+Seahawks
+
+ 
+2	Steelers
+Steelers
+
+ 
+2	Texans
+Texans
+
+ 
+2	Titans
+Titans
+
+ 
+2	Vikings
+Vikings
+
+ 
+Round 3
+3	49ers
+49ers
+
+ 
+3	Bears
+Bears
+
+ 
+3	Bengals
+Bengals
+ 
+3	Bills
+Bills
+ 
+3	Broncos
+Broncos
+ 
+3	Browns
+Browns
+ 
+3	Buccaneers
+Buccaneers
+
+ 
+3	Cardinals
+Cardinals
+ 
+3	Chargers
+Chargers
+
+ 
+3	Chiefs
+Chiefs
+
+ 
+3	Colts
+Colts
+ 
+3	Commanders
+Commanders
+
+ 
+3	Cowboys
+Cowboys
+
+ 
+3	Dolphins
+Dolphins
+
+ 
+3	Eagles
+Eagles
+
+ 
+3	Falcons
+Falcons
+
+ 
+3	Giants
+Giants
+
+ 
+3	Jaguars
+Jaguars
+
+ 
+3	Jets
+Jets
+
+ 
+3	Lions
+Lions
+
+ 
+3	Packers
+Packers
+
+ 
+3	Panthers
+Panthers
+ 
+3	Patriots
+Patriots
+ 
+3	Raiders
+Raiders
+
+ 
+3	Rams
+Rams
+
+ 
+3	Ravens
+Ravens
+
+ 
+3	Saints
+Saints
+
+ 
+3	Seahawks
+Seahawks
+
+ 
+3	Steelers
+Steelers
+
+ 
+3	Texans
+Texans
+
+ 
+3	Titans
+Titans
+
+ 
+3	Vikings
+Vikings
+
+ 
+Round 4
+4	49ers
+49ers
+
+ 
+4	Bears
+Bears
+
+ 
+4	Bengals
+Bengals
+ 
+4	Bills
+Bills
+ 
+4	Broncos
+Broncos
+ 
+4	Browns
+Browns
+ 
+4	Buccaneers
+Buccaneers
+
+ 
+4	Cardinals
+Cardinals
+ 
+4	Chargers
+Chargers
+
+ 
+4	Chiefs
+Chiefs
+
+ 
+4	Colts
+Colts
+ 
+4	Commanders
+Commanders
+
+ 
+4	Cowboys
+Cowboys
+
+ 
+4	Dolphins
+Dolphins
+
+ 
+4	Eagles
+Eagles
+
+ 
+4	Falcons
+Falcons
+
+ 
+4	Giants
+Giants
+
+ 
+4	Jaguars
+Jaguars
+
+ 
+4	Jets
+Jets
+
+ 
+4	Lions
+Lions
+
+ 
+4	Packers
+Packers
+
+ 
+4	Panthers
+Panthers
+ 
+4	Patriots
+Patriots
+ 
+4	Raiders
+Raiders
+
+ 
+4	Rams
+Rams
+
+ 
+4	Ravens
+Ravens
+
+ 
+4	Saints
+Saints
+
+ 
+4	Seahawks
+Seahawks
+
+ 
+4	Steelers
+Steelers
+
+ 
+4	Texans
+Texans
+
+ 
+4	Titans
+Titans
+
+ 
+4	Vikings
+Vikings
+
+ 
+Round 5
+5	49ers
+49ers
+
+ 
+5	Bears
+Bears
+
+ 
+5	Bengals
+Bengals
+ 
+5	Bills
+Bills
+ 
+5	Broncos
+Broncos
+ 
+5	Browns
+Browns
+ 
+5	Buccaneers
+Buccaneers
+
+ 
+5	Cardinals
+Cardinals
+ 
+5	Chargers
+Chargers
+
+ 
+5	Chiefs
+Chiefs
+
+ 
+5	Colts
+Colts
+ 
+5	Commanders
+Commanders
+
+ 
+5	Cowboys
+Cowboys
+
+ 
+5	Dolphins
+Dolphins
+
+ 
+5	Eagles
+Eagles
+
+ 
+5	Falcons
+Falcons
+
+ 
+5	Giants
+Giants
+
+ 
+5	Jaguars
+Jaguars
+
+ 
+5	Jets
+Jets
+
+ 
+5	Lions
+Lions
+
+ 
+5	Packers
+Packers
+
+ 
+5	Panthers
+Panthers
+ 
+5	Patriots
+Patriots
+ 
+5	Raiders
+Raiders
+
+ 
+5	Rams
+Rams
+
+ 
+5	Ravens
+Ravens
+
+ 
+5	Saints
+Saints
+
+ 
+5	Seahawks
+Seahawks
+
+ 
+5	Steelers
+Steelers
+
+ 
+5	Texans
+Texans
+
+ 
+5	Titans
+Titans
+
+ 
+5	Vikings
+Vikings
+
+ 
+Round 6
+6	49ers
+49ers
+
+ 
+6	Bears
+Bears
+
+ 
+6	Bengals
+Bengals
+ 
+6	Bills
+Bills
+ 
+6	Broncos
+Broncos
+ 
+6	Browns
+Browns
+ 
+6	Buccaneers
+Buccaneers
+
+ 
+6	Cardinals
+Cardinals
+ 
+6	Chargers
+Chargers
+
+ 
+6	Chiefs
+Chiefs
+
+ 
+6	Colts
+Colts
+ 
+6	Commanders
+Commanders
+
+ 
+6	Cowboys
+Cowboys
+
+ 
+6	Dolphins
+Dolphins
+
+ 
+6	Eagles
+Eagles
+
+ 
+6	Falcons
+Falcons
+
+ 
+6	Giants
+Giants
+
+ 
+6	Jaguars
+Jaguars
+
+ 
+6	Jets
+Jets
+
+ 
+6	Lions
+Lions
+
+ 
+6	Packers
+Packers
+
+ 
+6	Panthers
+Panthers
+ 
+6	Patriots
+Patriots
+ 
+6	Raiders
+Raiders
+
+ 
+6	Rams
+Rams
+
+ 
+6	Ravens
+Ravens
+
+ 
+6	Saints
+Saints
+
+Cowboys
+Cowboys
+
+ 
+
+Traded • Asim Richards • 2028 seventh round pick (?-?) to Saints for • 2028 sixth round pick (?-?) on 2025-08-26
+
+6	Seahawks
+Seahawks
+
+ 
+6	Steelers
+Steelers
+
+ 
+6	Texans
+Texans
+
+Saints
+Saints
+
+ 
+
+Traded • Kai Kroeger • 2028 seventh round pick (?-?) to Texans for • 2028 sixth round pick (?-?) on 2026-03-11
+
+6	Titans
+Titans
+
+ 
+6	Vikings
+Vikings
+
+ 
+Round 7
+7	49ers
+49ers
+
+ 
+7	Bears
+Bears
+
+ 
+7	Bengals
+Bengals
+ 
+7	Bills
+Bills
+ 
+7	Broncos
+Broncos
+ 
+7	Browns
+Browns
+Rams
+Rams
+
+ 
+
+Traded • K.T. Leveston to Browns for • 2028 seventh round pick (?-?) on 2025-08-26
+
+7	Buccaneers
+Buccaneers
+
+ 
+7	Cardinals
+Cardinals
+ 
+7	Chargers
+Chargers
+
+ 
+7	Chiefs
+Chiefs
+
+ 
+7	Colts
+Colts
+ 
+7	Commanders
+Commanders
+
+ 
+7	Cowboys
+Cowboys
+
+Saints
+Saints
+
+ 
+
+Traded • 2028 sixth round pick (?-?) to Cowboys for • Asim Richards • 2028 seventh round pick (?-?) on 2025-08-26
+
+7	Dolphins
+Dolphins
+
+ 
+7	Eagles
+Eagles
+
+ 
+7	Falcons
+Falcons
+
+ 
+7	Giants
+Giants
+
+ 
+7	Jaguars
+Jaguars
+
+ 
+7	Jets
+Jets
+
+Chargers
+Chargers (conditional)
+
+ 
+
+pick may or may not transfer depending on unknown conditions
+
+ 
+
+Traded • Ja'Sir Taylor to Jets for • 2028 conditional seventh round pick (?-?) on 2025-11-04
+
+ 
+
+Conditions on pick are unknown.
+
+7	Lions
+Lions
+
+ 
+7	Packers
+Packers
+
+ 
+7	Panthers
+Panthers
+ 
+7	Patriots
+Patriots
+Saints
+Saints
+
+ 
+
+Traded • 2027 sixth round pick (?-?) to Patriots for • Ja'Lynn Polk • 2028 seventh round pick (?-?) on 2025-09-13
+
+7	Raiders
+Raiders
+
+ 
+7	Rams
+Rams
+
+ 
+7	Ravens
+Ravens
+
+ 
+7	Saints
+Saints
+
+Texans
+Texans
+
+ 
+
+Traded • 2028 sixth round pick (?-?) to Saints for • Kai Kroeger • 2028 seventh round pick (?-?) on 2026-03-11
+
+7	Seahawks
+Seahawks
+
+ 
+7	Steelers
+Steelers
+
+ 
+7	Texans
+Texans
+
+ 
+7	Titans
+Titans
+
+ 
+7	Vikings
+Vikings

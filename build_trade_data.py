@@ -119,6 +119,81 @@ execute_trade(2027, 7, "nyg", "mia", draftPicks2027)
 # TRADE 22: BAL 7th -> PHI
 execute_trade(2027, 7, "bal", "phi", draftPicks2027)
 
+# ── NEW / PREVIOUSLY MISSING 2027 TRADES ──────────────────────────────────────
+
+# TRADE 23: LAR 3rd -> KC (Trent McDuffie trade, 2026-03-04)
+# LAR gives KC: 2026 1st + 2026 5th + 2026 6th + 2027 3rd. KC gives LAR: McDuffie.
+execute_trade(2027, 3, "lar", "kc", draftPicks2027)
+
+# TRADE 24: GB 4th -> DAL (Rashan Gary trade, 2026-03-11)
+# GB gives DAL: 2027 4th. DAL gives GB: Rashan Gary.
+execute_trade(2027, 4, "gb", "dal", draftPicks2027)
+
+# TRADE 25: CHI 5th -> NE (Garrett Bradbury trade, 2026-03-11)
+# CHI gives NE: 2027 5th. NE gives CHI: Garrett Bradbury.
+execute_trade(2027, 5, "chi", "ne", draftPicks2027)
+
+# FIX 1: CAR 5th -> MIN (Adam Thielen trade return leg, 2025-08-27 - was missing)
+# MIN gives CAR: 2027 4th + 2026 5th. CAR gives MIN: 2027 5th + conditional 2026 7th + Thielen.
+execute_trade(2027, 5, "car", "min", draftPicks2027)
+
+# FIX 2: PIT 6th -> DAL (George Pickens trade return leg, 2025-05-07 - was missing)
+# DAL gives PIT: 2026 3rd + 2027 5th. PIT gives DAL: Pickens + 2027 6th.
+execute_trade(2027, 6, "pit", "dal", draftPicks2027)
+
+# TRADE 28: KC 6th -> NYJ (Justin Fields trade, 2026-03-19)
+# NYJ gives KC: Justin Fields. KC gives NYJ: 2027 6th.
+execute_trade(2027, 6, "kc", "nyj", draftPicks2027)
+
+# FIX 3: KC 7th -> SF (Skyy Moore trade return leg, 2025-08-21 - was missing)
+# SF gives KC: 2027 6th. KC gives SF: Skyy Moore + 2027 7th.
+execute_trade(2027, 7, "kc", "sf", draftPicks2027)
+
+# FIX 4: MIA 7th -> PIT (Fitzpatrick trade return leg, 2025-07-07 - was missing)
+# PIT gives MIA: Fitzpatrick + 2027 5th. MIA gives PIT: Ramsey + Smith + 2027 7th.
+execute_trade(2027, 7, "mia", "pit", draftPicks2027)
+
+# FIX 5: HOU 7th -> CLE (Cam Robinson trade return leg, 2025-09-29 - was missing)
+# CLE gives HOU: 2027 6th. HOU gives CLE: Cam Robinson + 2027 7th.
+execute_trade(2027, 7, "hou", "cle", draftPicks2027)
+
+# OVERRIDE TRADE 19: LAC conditional 7th -> DET (via HOU; David Montgomery trade, 2026-03-11)
+# HOU gives DET: Juice Scruggs + 2026 4th + 2027 7th (LAC's pick). DET gives HOU: D. Montgomery.
+# TRADE 19 set LAC 7th -> HOU; this overrides to final destination DET.
+execute_trade(2027, 7, "lac", "det", draftPicks2027)
+
+# FIX 6: MIN 7th -> NYJ (Harrison Phillips trade return leg, 2025-08-22 - was missing)
+# NYJ gives MIN: 2026 6th + 2027 6th. MIN gives NYJ: Harrison Phillips + 2027 7th.
+execute_trade(2027, 7, "min", "nyj", draftPicks2027)
+
+# FIX 7: NYJ 7th -> PHI (Michael Carter II trade return leg, 2025-10-30 - was missing)
+# PHI gives NYJ: Metchie III + 2027 6th (more favorable of PHI/GB). NYJ gives PHI: Carter II + 2027 7th.
+execute_trade(2027, 7, "nyj", "phi", draftPicks2027)
+
+# ── 2028 TRADES (all new) ──────────────────────────────────────────────────────
+
+# Asim Richards trade (2025-08-26): NO <-> DAL 2028 picks
+# NO gives DAL: 2028 6th. DAL gives NO: Asim Richards + 2028 7th.
+execute_trade(2028, 6, "no", "dal", draftPicks2028)
+execute_trade(2028, 7, "dal", "no", draftPicks2028)
+
+# Kai Kroeger trade (2026-03-11): NO <-> HOU 2028 picks
+# NO gives HOU: Kai Kroeger + 2028 7th. HOU gives NO: 2028 6th.
+execute_trade(2028, 6, "hou", "no", draftPicks2028)
+execute_trade(2028, 7, "no", "hou", draftPicks2028)
+
+# K.T. Leveston trade (2025-08-26)
+# CLE gives LAR: 2028 7th. LAR gives CLE: K.T. Leveston.
+execute_trade(2028, 7, "cle", "lar", draftPicks2028)
+
+# Ja'Lynn Polk trade (2025-09-13)
+# NO gives NE: 2027 6th (NO's pick). NE gives NO: Ja'Lynn Polk + 2028 7th.
+execute_trade(2028, 7, "ne", "no", draftPicks2028)
+
+# Ja'Sir Taylor trade (2025-11-04, conditional)
+# NYJ gives LAC: conditional 2028 7th. LAC gives NYJ: Ja'Sir Taylor.
+execute_trade(2028, 7, "nyj", "lac", draftPicks2028)
+
 
 out = f"const richHillValues = {json.dumps(rh_values, indent=4)};\n\n"
 out += f"const draftPicks2027 = {json.dumps(draftPicks2027, indent=4)};\n\n"

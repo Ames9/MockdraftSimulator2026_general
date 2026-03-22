@@ -1,3 +1,4 @@
+Full 2026 NFL Draft Order
 1st Round
 1	 
 Las Vegas
@@ -60,9 +61,11 @@ San Francisco
 28	 
 Houston
 29	 
-LA Rams
+Kansas City
+  LAR 
 30	 
-Denver
+Miami
+  DEN 
 31	 
 New England
 32	 
@@ -125,7 +128,8 @@ San Francisco
 59	 
 Houston
 60	 
-Buffalo
+Chicago
+  BUF 
 61	 
 LA Rams
 62	 
@@ -196,11 +200,13 @@ Miami
 91	 
 Buffalo
 92	 
-San Francisco
+Dallas
+  SF 
 93	 
 LA Rams
 94	 
-Denver
+Miami
+  DEN 
 95	 
 New England
 96	 
@@ -238,13 +244,15 @@ Kansas City
 110	 
 Cincinnati
 111	 
-Miami
+Denver
+  MIA 
 112	 
 Dallas
 113	 
 Indianapolis
 114	 
-Atlanta
+Philadelphia
+  ATL 
 115	 
 Baltimore
 116	 
@@ -261,7 +269,8 @@ Green Bay
 121	 
 Pittsburgh
 122	 
-Philadelphia
+Atlanta
+  PHI 
 123	 
 LA Chargers
 124	 
@@ -274,12 +283,14 @@ Buffalo
 127	 
 San Francisco
 128	 
-Houston
+Detroit
+  HOU 
 129	 
 Chicago
   LAR 
 130	 
-Denver
+Miami
+  DEN 
 131	 
 New England
 132	 
@@ -297,286 +308,295 @@ New Orleans
 Philadelphia
 138	 
 San Francisco
-5th Round
 139	 
+San Francisco
+140	 
+NY Jets
+5th Round
+141	 
 Cleveland
   LV 
-140	 
-Tennessee
-  NYJ 
-141	 
-Arizona
 142	 
 Tennessee
+  NYJ 
 143	 
-NY Giants
+Arizona
 144	 
-Cleveland
+Tennessee
 145	 
-Washington
+NY Giants
 146	 
-Kansas City
+Cleveland
 147	 
+Washington
+148	 
+Kansas City
+149	 
 Cleveland
   CIN 
-148	 
-New Orleans
-149	 
-Miami
 150	 
-Dallas
+New Orleans
 151	 
+Miami
+152	 
+Dallas
+153	 
 Philadelphia
   ATL 
-152	 
-Baltimore
-153	 
-Tampa Bay
 154	 
-Indianapolis
+Baltimore
 155	 
-Detroit
+Tampa Bay
 156	 
+Indianapolis
+157	 
+Detroit
+158	 
 Carolina
   MIN 
-157	 
-Carolina
-158	 
-Green Bay
 159	 
-Pittsburgh
+Carolina
 160	 
+Green Bay
+161	 
+Pittsburgh
+162	 
 Baltimore
   LAC 
-161	 
+163	 
 Minnesota
   PHI 
-162	 
-Jacksonville
-163	 
-Chicago
 164	 
 Jacksonville
-  SF 
 165	 
-Houston
-166	 
 Buffalo
+  CHI 
+166	 
+Jacksonville
+  SF 
 167	 
-LA Rams
+Houston
 168	 
-Denver
+Buffalo
 169	 
-New England
+Kansas City
+  LAR 
 170	 
+Denver
+171	 
+New England
+172	 
 New Orleans
   SEA 
-171	 
-San Francisco
-172	 
-Baltimore
 173	 
 Baltimore
 174	 
-Las Vegas
+Baltimore
 175	 
-NY Jets
+Las Vegas
 176	 
 Kansas City
 177	 
 Dallas
 178	 
-NY Jets
-179	 
 Philadelphia
+179	 
+NY Jets
 180	 
+Dallas
+181	 
 Detroit
 6th Round
-181	 
-Las Vegas
-  NYJ 
 182	 
-Arizona
+Buffalo
+  NYJ 
 183	 
-Tennessee
+Arizona
 184	 
-Las Vegas
+Tennessee
 185	 
-NY Giants
+Las Vegas
 186	 
-Washington
+NY Giants
 187	 
-Detroit
-  CLE 
+Washington
 188	 
-Cincinnati
+Seattle
+  CLE 
 189	 
-New Orleans
+Cincinnati
 190	 
+New Orleans
+191	 
 New England
   KC 
-191	 
-NY Giants
-  MIA 
 192	 
 NY Giants
-  DAL 
+  MIA 
 193	 
-NY Jets
-  BAL 
+NY Giants
+  DAL 
 194	 
-Tampa Bay
+Tennessee
+  BAL 
 195	 
+Tampa Bay
+196	 
 Minnesota
   IND 
-196	 
-Atlanta
 197	 
-Washington
-  MIN 
+Philadelphia
+  ATL 
 198	 
+New England
+  MIN 
+199	 
 Cincinnati
   DET 
-199	 
-Carolina
 200	 
-Green Bay
+Carolina
 201	 
+Green Bay
+202	 
 New England
   PIT 
-202	 
+203	 
 Jacksonville
   PHI 
-203	 
-LA Chargers
 204	 
+LA Chargers
+205	 
 Detroit
   JAX 
-205	 
+206	 
 Cleveland
   CHI 
-206	 
+207	 
 LA Rams
   HOU 
-207	 
-NY Jets
-  BUF 
 208	 
-New England
-  SF 
+Las Vegas
+  BUF 
 209	 
-LA Rams
+Washington
+  SF 
 210	 
+Kansas City
+  LAR 
+211	 
 Baltimore
   DEN 
-211	 
-New England
 212	 
-Seattle
+New England
 213	 
-Pittsburgh
+Detroit
+  SEA 
 214	 
-LA Chargers
-215	 
-Pittsburgh
-216	 
-Dallas
-217	 
 Indianapolis
+  PIT 
+215	 
+Atlanta
+  PHI 
+216	 
+Pittsburgh
 7th Round
-218	 
+217	 
 Arizona
-219	 
-NY Jets
+218	 
+Dallas
   TEN 
-220	 
+219	 
 Las Vegas
-221	 
+220	 
 Buffalo
   NYJ 
-222	 
-Dallas
+221	 
+Cincinnati
   NYG 
-223	 
+222	 
 Detroit
   CLE 
-224	 
+223	 
 Washington
-225	 
+224	 
 Pittsburgh
   NO 
-226	 
-Dallas
+225	 
+Tennessee
   KC 
-227	 
+226	 
 Cincinnati
-228	 
+227	 
 Miami
-229	 
-Buffalo
+228	 
+NY Jets
   DAL 
-230	 
+229	 
 Tampa Bay
+230	 
+Pittsburgh
+  IND 
 231	 
-Indianapolis
-232	 
 Atlanta
-233	 
+232	 
 LA Rams
   BAL 
-234	 
+233	 
 Jacksonville
   DET 
+234	 
+Minnesota
 235	 
 Minnesota
+  CAR 
 236	 
-Carolina
-237	 
 Green Bay
-238	 
+237	 
 Pittsburgh
-239	 
-Tennessee
+238	 
+Miami
   LAC 
-240	 
+239	 
 Chicago
   PHI 
+240	 
+Jacksonville
 241	 
-Minnesota
-  JAX 
-242	 
 Chicago
-243	 
+242	 
 NY Jets
   BUF 
-244	 
+243	 
 Houston
   SF 
+244	 
+Minnesota
+  HOU 
 245	 
-Houston
-246	 
 Jacksonville
   LAR 
-247	 
+246	 
 Denver
-248	 
+247	 
 New England
-249	 
+248	 
 Cleveland
   SEA 
+249	 
+Indianapolis
 250	 
 Baltimore
 251	 
 LA Rams
 252	 
-Baltimore
-253	 
-Indianapolis
-254	 
-Green Bay
-255	 
-Denver
-256	 
 LA Rams
-257	 
+253	 
+Baltimore
+254	 
+Indianapolis
+255	 
 Green Bay
+256	 
+Denver
+257	 
+Denver
